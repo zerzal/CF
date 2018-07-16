@@ -3,7 +3,7 @@
 # Script by Dwayne Ayers
 use warnings;
 #use strict;
-$cgiurl = "http://www.unc.edu/usr-bin/dcayers/LS/CF/FtoP.pl";
+$cgiurl = "http://wohelp-dcayers.cloudapps.unc.edu";
 $ver = "1.3";
 
 # Get the input
