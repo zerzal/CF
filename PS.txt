@@ -1,0 +1,1352 @@
+0,Grants Security,Grants Security
+200000,Ofc of the Chancellor,Office of the Chancellor
+200100,Office of the Chancellor,Office of the Chancellor
+200200,Carolina Counts,Carolina Counts
+200300,Innovation and Entrepreneurshp,Innovation and Entrepreneurship
+200400,University Counsel,University Counsel
+200600,UNC Management Company,UNC Management Company
+200700,Internal Audit,Internal Audit
+200800,Alumni Assoc Office,Alumni Association Office
+200900,Office Faculty Governance,Office Faculty Governance
+201000,The Employee Forum,The Employee Forum
+201100,University Ombuds Office,University Ombuds Office
+201200,UNC-CH Board of Trustees,University of North Carolina at Chapel Hill - Board of Trustees
+201300,State Government Relations,State Government Relations
+210000,Vice Chan Finance and Admin,Vice Chancellor for Finance and Administration
+210100,Vice Chan Finance and Admin,Vice Chancellor for Finance and Administration
+211000,Real Estate Development,UNC Real Estate Development
+211100,PropOfc-Managed Properties,UNC Property Office - Managed Properties
+211110,PropOfc-Residential Properties,UNC Property Office - Residential - Managed Properties
+211120,PropOfc-Commercial Properties,UNC Property Office - Commercial - Managed Properties
+211121,PropOfc-Commercial - Office,UNC Property Office - Commercial - Office- Managed Properties
+211122,PropOfc-Commercial - Retail,UNC Property Office - Commercial- Retail - Managed Properties
+211130,PropOfc-Land-Mngd Properties,UNC Property Office - Land - Managed Properties
+211200,PropOfc-Leasing Operations,UNC Property Office - Leasing Operations
+211900,Carolina Inn Administr Ctrl,Carolina Inn Administration Central
+213000,AVC Finance,Associate Vice Chancellor for Finance
+213010,AVC Finance,Associate Vice Chancellor for Finance
+213100,Finance Commun and Training,Finance Communications and Training
+213200,Student Accts and Receivables,Student Accounts and University Receivables
+213300,Treasury Risk Managmnt Svcs,Treasury and Risk Management Services
+213310,Debt Management,Debt Management
+213320,Treasury Operations,Treasury Operations
+213330,Cash Management,Cash Management
+213340,Insurance and Risk Management,Insurance and Risk Management
+213400,University Controller,University Controller
+213410,Financial Reprt and Mgmt Svcs,Financial Reporting and Management Services
+213420,Accounting Services,Accounting Services
+213429,Accounting Services Restricted,Accounting Services Restricted
+213430,Payroll Services,Payroll Services
+213440,Budget Office,Budget Office
+213500,Finance Business Analysis,Finance Business Analysis
+213600,Procurement Services,Procurement Services
+213610,Purchasing Services,Procurement-Purchasing Services
+213620,Disbursement Services,Procurement-Systems and Operations-Disbursement Services
+213630,Travel Services,Procurement-Systems and Operations-Travel Services
+213640,Strategic Supply,Procurement-Strategy Supply
+213650,Asset Management,Procurement-Logistics-Asset Management
+213660,Logistics,Procurement-Logistics
+213661,MMD-Dental Stockroom,Procurement-Logistics-MMD-Dental Storeroom
+213662,MMD-General Storeroom,Procurement-Logistics-MMD-Mini Storeroom
+213663,Central Receiving,Procurement-Logistics-Central Receiving
+213664,Surplus Property,Procurement-Logistics-Surplus Property
+213665,MMD-Scientific Supply,Procurement-Logistics-Scientific Supply
+220000,AVC Adm and Bus Services,Associate Vice Chancellor for Administration and Business Services
+221010,AB Business Office AVC,Business Office AVC
+221020,AB Business Office HR,Business Office Human Resources
+221030,AB Business Office Finance,Business Office Finance
+221040,AB Business Office IT,Business Office IT
+221050,AB Business Office Communicat,Business Office Communications
+223000,Student Stores,Student Stores
+223010,SS  Administration,Student Stores  Administration
+223020,SS  Accounting,Student Stores  Accounting
+223030,SS  IT Support,Student Stores  IT Support
+223040,SS  Operations,Student Stores  Operations
+223040,SS  Operations,Student Stores  Operations
+223040,SS  Operations,Student Stores  Operations
+223050,SS  Receiving,Student Stores  Receiving
+223060,SS  Display and Advertising,Student Stores  Display and Advertising
+223310,SS Custom Publishing,Student Stores  Custom Publishing
+223311,SS Custom Publishing Daniels,Student Stores Custom Publishing Daniels
+223312,SS Custom Publishing Fri Ctr,Student Stores Custom Publishing Friday Center
+223313,SS Custom Publishing Web,Student Stores Custom Publishing EPOS Web Site
+223320,SS  Health Affairs,Student Stores  Health Affairs
+223321,SS  Health Affairs Daniels,Student Stores  Health Affairs Daniels
+223322,SS  Health Affairs Fri Ctr,Student Stores  Health Affairs Friday Center
+223323,SS  Health Affairs Web,Student Stores  Health Affairs EPOS Web Site
+223330,SS  Text Books,Student Stores  Text Books
+223331,SS  Text Books Daniels,Student Stores  Text Books Daniels
+223332,SS  Text Books Fri Ctr,Student Stores  Text Books Friday Center
+223333,SS  Text Books Web,Student Stores  Text Books EPOS Web Site
+223340,SS  Bulls Head,Student Stores  Bulls Head
+223341,SS  Bulls Head Daniels,Student Stores  Bulls Head Daniels
+223342,SS  Bulls Head Fri Ctr,Student Stores  Bulls Head Friday Center
+223343,SS  Bulls Head Web,Student Stores  Bulls Head EPOS Web Site
+223350,SS  Ram Shop,Student Stores  Ram Shop
+223351,SS  Ram Shop Daniels,Student Stores  Ram Shop Daniels
+223352,SS  Ram Shop Fri Ctr,Student Stores  Ram Shop Friday Center
+223353,SS  Ram Shop Web,Student Stores  Ram Shop EPOS Web Site
+223360,SS  School Supplies,Student Stores  School Supplies
+223361,SS  School Supplies Daniels,Student Stores  School Supplies Daniels
+223362,SS  School Supplies Fri Ctr,Student Stores  School Supplies Friday Center
+223363,SS  School Supplies Web,Student Stores  School Supplies EPOS Web Site
+223370,SS  Clothing,Student Stores  Clothing
+223371,SS  Clothing Daniels,Student Stores  Clothing Daniels
+223372,SS  Clothing Fri Ctr,Student Stores  Clothing Friday Center
+223373,SS  Clothing Web,Student Stores  Clothing EPOS Web Site
+223380,SS  Post Office,Student Stores  Post Office
+223390,SS  Graduation,Student Stores  Graduation
+223391,SS  Graduation Daniels,Student Stores  Graduation Daniels
+223392,SS  Graduation Fri Ctr,Student Stores  Graduation Friday Center
+223393,SS  Graduation Web,Student Stores  Graduation EPOS Web Site
+223410,SS  Pit Stop,Student Stores  Pit Stop
+223411,SS  Pit Stop Daniels,Student Stores  Pit Stop Daniels
+223412,SS  Pit Stop Fri Ctr,Student Stores  Pit Stop Friday Center
+223413,SS  Pit Stop Web,Student Stores  Pit Stop EPOS Web Site
+223420,SS  Gifts,Student Stores  Gifts
+223421,SS  Gifts Daniels,Student Stores  Gifts Daniels
+223422,SS  Gifts Fri Ctr,Student Stores  Gifts Friday Center
+223423,SS  Gifts Web,Student Stores  Gifts EPOS Web Site
+223430,SS Printing,Student Stores  Printing Services
+223431,SS Printing Daniels,Student Stores  Printing Services Daniels
+223432,SS Printing Fri Ctr,Student Stores  Printing Services Friday Center
+223433,SS Printing Web,Student Stores  Printing Services EPOS Web Site
+223999,SS Closed Store,Student Stores Closed Store SLs with historical data
+224000,Auxiliary Services,Auxiliary Services
+224100,AS Printing Services,Auxiliary Services Printing Services
+224110,AS Print Shop,Auxiliary Services Print Shop
+224200,AS Copier Services,Auxiliary Services Copier Services
+224210,AS CS Carolina Copy Service,Auxiliary Services Copier Services Carolina Copy Service
+224220,AS CS Laser Printer Service,Auxiliary Services Copier Services Laser Printer Service
+224300,AS Laundry Services,Auxiliary Services Laundry Services
+224310,AS LS Laundry Student Coin Op,Auxiliary Services Laundry Services Student Coin Operations
+224320,AS LS Laundry Department,Auxiliary Services Laundry Services Department
+224400,AS UNC One Card,Auxiliary Services UNC One Card
+224410,AS OC Academic Affairs,Auxiliary Services UNC One Card  Academic Affairs
+224420,AS OC Health Affairs,Auxiliary Services UNC One Card  Health Affairs
+224430,AS OC Revenue,Auxiliary Services UNC One Card  Revenue
+224440,AS OC Office Operation,Auxiliary Services UNC One Card  Office Operation
+224450,AS OC Banking Services,Auxiliary Services UNC One Card  Banking Services
+224460,AS OC CBORD Maintenance,Auxiliary Services UNC One Card  CBORD Maintenance
+224500,AS Armored Car Service,Auxiliary Services Amored Car Service
+224510,AS AC Central Account,Auxiliary Services Armored Car Service Central Account
+224600,AS UNC PID Office,Auxiliary Services UNC PID Office
+224610,AS PO Central Account,Auxiliary Services UNC PID Operations
+224700,AS Food Service,Auxiliary Services Food Service
+224710,AS FS Operations,Auxiliary Services Food Service Operations
+224720,AS FS Carolina Dining,Auxiliary Services Food Service Operations Carolina Dining
+224730,AS FS Food Service Student Fee,Auxiliary Services Food Service Operations Student Debt Fee
+224740,AS FS Food Sevice Vending,Auxiliary Services Food Service Operations Vending
+224750,AS FS CSU-Snack Bar Admin,Auxiliary Services Food Service Operations CSU-Snack Bar Administration
+224760,AS FS CSU-AOB Snack,Auxiliary Services Food Service Operations CSU-AOB Snack Unit
+224770,AS FS CSU-Atrium Snack,Auxiliary Services Food Service Operations CSU-Atrium Snack Unit
+224780,AS FS CSU-Blue Ram Snack,Auxiliary Services Food Service Operations CSU-Blue Ram Snack Unit
+224790,AS FS CSU-Law Bar Snack,Auxiliary Services Food Service Operations CSU-Law Bar Snack Unit
+224800,AS CM Campus Mail Svcs,Auxiliary Services Campus Mail Services
+224810,AS CM Campus Mail Ext,Auxiliary Services Campus Mail Services External Operations
+224820,AS CM Campus Mail Int,Auxiliary Services Campus Mail Services Internal Operations
+224830,AS CM Campus Mail Trust,Auxiliary Services Campus Mail Services Trust Operations
+224900,AS GA Central Account,Auxiliary Services General Administration
+224910,AS GA Billing General,Auxiliary Services General Administration Billing
+228000,AS Trademark Licensing,Trademark Licensing
+228010,AS TL Operations,Trademark Licensing Operations
+229001,AS AF UNC Press,Aux Services Affiliates: UNC Press
+229002,AS AF Daily Tar Heel,Aux Services Affiliates: Daily Tar Heel
+229003,AS AF Morehead-Cain,Aux Services Affiliates: Morehead-Cain Foundation
+229004,AS AF EPA,Aux Services Affiliates: EPA
+229005,AS AF Other,Aux Services Affiliates: Other
+230000,AVCEEHC,"Associate Vice Chancellor for Energy, Environment, Health, and Campus Safety"
+230110,AVCEEHC,"Associate Vice Chancellor for Energy, Environment, Health, and Campus Safety"
+230510,EHS Central Account,Environment Health and Safety  Central Account
+230511,EHS UEOHC,"Environment, Health and Safety  University Employee Occupational Health Clinic"
+230512,EHS Hospital Contracts,"Environment, Health and Safety Hospital Contracts"
+230513,EHS HBV Employee Vaccine,"Environment, Health and Safety  HBV Employee Vacccine"
+230901,ES F and A Grant Funds,Energy Services F and A Grant Funds
+230902,ES Renewable Energy Fee,Energy Services Renewable Energy Fee
+231010,ES Admin,Energy Services Administration
+231110,ES CG,Energy Services Cogeneration Systems
+231130,ES CG Warehouse Shop,Energy Services Cogeneration Systems  Warehouse Shop
+231140,ES CG Operations,Energy Services Cogeneration Systems  Operations
+231141,ES CG Warehouse,Energy Services Cogeneration Systems Warehouse
+231142,ES CG Fuel Handling,Energy Services Cogeneration Systems Fuel Handling
+231143,ES CG Maint/Plant,Energy Services Cogeneration Systems Maintenance/Plant
+231144,ES CG Maint/Campus,Energy Services Cogeneration Systems Maintenance/Campus
+231145,ES CG I and C,Energy Services Cogeneration Systems Instruments and Controls
+231210,ES ED,Energy Services Electric Distribution Systems
+231280,ES ED Electric Distribution,Energy Services Electric Distribution Systems  Electric Distribution
+231281,ES ED Underground,Energy Services Electric Distribution Systems  Underground
+231282,ES ED Overhead,Energy Services Electric Distribution Systems  Overhead
+231283,ES ED Metering,Energy Services Electric Distribution Systems  Metering
+231284,ES ED Power Distribution,Energy Services Electric Distribution Systems  Power Distribution
+231285,ES ED Planning/Design,Energy Services Electric Distribution Systems  Planning/Design
+231286,ES ED Utilities Storeroom,Energy Services Electric Distribution Systems  Utilities Storeroom
+231287,ES ED Distribution Systems,Energy Services Electric Distribution Systems  Distribution Systems
+231310,ES CW,Energy Services Chilled Water Systems
+231390,ES CW Administration,Energy Services Chilled Water Systems  Administration
+231391,ES CW Supervision,Energy Services Chilled Water Systems  Supervision
+231392,ES CW Mechanical Maint,Energy Services Chilled Water Systems  Mechanical Maintenance
+231393,ES CW Production,Energy Services Chilled Water Systems  Production
+231394,ES CW Distribution,Energy Services Chilled Water Systems  Distribution
+231395,ES CW Technical Support,Energy Services Chilled Water Systems  Technical Support
+231396,ES CW I and C Shop,Energy Services Chilled Water Systems  Instrumentation and Controls
+231510,ES Gas,Energy Services Natural Gas and Propane
+231610,ES NPWater,Energy Services Non Potable Water
+231651,ES StormWater,Energy Services StormWater
+231710,ES Water and Sewer,Energy Services Water and Sewer Central Account
+231810,ES EMCS,Energy Services EMCS Central Account
+231910,ES ITS,Energy Services ITS
+234001,DPS Admin,Department of Public Safety Administration
+234001,DPS Admin,Department of Public Safety Administration
+234401,DPS Police,Department of Public Safety Police
+234501,DPS Security,Department of Public Safety Security
+234801,DPS Parking,Department of Public Safety Parking
+234901,DPS Transportation,Department of Public Safety Transportation
+236310,ST Sustainability,Sustainability
+239810,Quail Roost,Quail Roost
+239910,Horace Williams Airport,Horace Williams Airport
+240000,AVC Facilities Services,Associate Vice Chancellor for Facilities Services
+240100,AVC Facilities Services,Associate Vice Chancellor for Facilities Services
+240300,FS - Engineering Info Services,Engineering Information Systems
+240500,FS - Construction Management,Construction Management
+240700,FS - Capital Improvements,Capital Projects
+241000,"FS-Ops, Planning and Design","Assistant Vice Chancellor for Facilities Operations, Planning and Design"
+241100,FS-Ops Plan Design-Spcl Projs,Assistant Vice Chancellor for Facilities Operations Planning and Design - Special Projects
+241200,FS-Ops Plan Design-Planning,Assistant Vice Chancellor for Facilities Operations Planning and Design - Planning
+242000,FS-Housekeeping Svcs,Facilities Services-Housekeeping Services-Housekeeping Services
+242001,FS-Housekeeping Svcs-Zone 01,Facilities Services-Housekeeping Services-Zone 01
+242002,FS-Housekeeping Svcs-Zone 02,Facilities Services-Housekeeping Services-Zone 02
+242003,FS-Housekeeping Svcs-Zone 03,Facilities Services-Housekeeping Services-Zone 03
+242004,FS-Housekeeping Svcs-Zone 04,Facilities Services-Housekeeping Services-Zone 04
+242005,FS-Housekeeping Svcs-Zone 05,Facilities Services-Housekeeping Services-Zone 05
+242006,FS-Housekeeping Svcs-Zone 06,Facilities Services-Housekeeping Services-Zone 06
+242007,FS-Housekeeping Svcs-Zone 07,Facilities Services-Housekeeping Services-Zone 07
+242008,FS-Housekeeping Svcs-Zone 08,Facilities Services-Housekeeping Services-Zone 08
+242009,FS-Housekeeping Svcs-Zone 09,Facilities Services-Housekeeping Services-Zone 09
+242010,FS-Housekeeping Svcs-Zone 10,Facilities Services-Housekeeping Services-Zone 10
+242011,FS-Housekeeping Svcs-Zone 11,Facilities Services-Housekeeping Services-Zone 11
+242012,FS-Housekeeping Svcs-Zone 12,Facilities Services-Housekeeping Services-Zone 12
+242013,FS-Housekeeping Svcs-Zone 13,Facilities Services-Housekeeping Services-Zone 13
+242014,FS-Housekeeping Svcs-Zone 14,Facilities Services-Housekeeping Services-Zone 14
+242015,FS-Housekeeping Svcs-Zone 15,Facilities Services-Housekeeping Services-Zone 15
+242016,FS-Housekeeping Svcs-Zone 16,Facilities Services-Housekeeping Services-Zone 16
+242017,FS-Housekeeping Svcs-Zone 17,Facilities Services-Housekeeping Services-Zone 17
+242018,FS-Housekeeping Svcs-Zone 18,Facilities Services-Housekeeping Services-Zone 18
+242019,FS-Housekeeping Svcs-Zone 19,Facilities Services-Housekeeping Services-Zone 19
+242021,FS-Housekeeping Svcs-Zone 21,Facilities Services-Housekeeping Services-Zone 21
+242022,FS-Housekeeping Svcs-Zone 22,Facilities Services-Housekeeping Services-Zone 22
+242023,FS-Housekeeping Svcs-Zone 23,Facilities Services-Housekeeping Services-Zone 23
+242025,FS-Housekeeping Svcs-Zone 25,Facilities Services-Housekeeping Services-Zone 25
+242026,FS-Housekeeping Svcs-Zone 26,Facilities Services-Housekeeping Services-Zone 26
+242027,FS-Housekeeping Svcs-Zone 27,Facilities Services-Housekeeping Services-Zone 27
+242030,FS-Housekeeping Svcs-Asst Dir,Facilities Services-Housekeeping Services-Assistant Director
+242031,FS-Housekeeping Svcs-Eve AD,Facilities Services-Housekeeping Services-Assistant Director Evening Operations
+242040,FS-Housekeeping Svcs-Night N,Facilities Services-Housekeeping Services-Night Operations North
+242041,FS-Housekeeping Svcs-Night S,Facilities Services-Housekeeping Services-Night Operations South
+242042,FS-Housekeeping Svcs-Training,Facilities Services-Housekeeping Services-Training Office
+242043,FS-Housekeeping Svcs-OS1,Facilities Services-Housekeeping Services-OS1
+243000,FS-Ops Plan&Design-TBD4,"Facilities Operations, Planning and Design - TBD4"
+244000,FS-Grounds Services,Facilities Services-Grounds Services-Grounds Services
+244001,FS-Grounds-Administration,Facilities Services-Grounds Services-Administrative Office
+244002,FS-Grounds-Forrester Svcs,Facilities Services-Grounds Services-Forrester Services
+244003,FS-Grounds-Landscape Maint N,Facilities Services-Grounds Services-Landscape Maintenance North
+244004,FS-Grounds-Landscape Install,Facilities Services-Grounds Services-Landscape Installation
+244005,FS-Grounds-LS Maint Hsng/Pkng,Facilities Services-Grounds Services-Landscape Maintenance Housing/Parking
+244006,FS-Grounds-Housing,Facilities Services-Grounds Services-Housing
+245000,FS-Building Services,Facilities Services-Building Services-Building Services
+245100,FS-Bldg Svcs-HVAC,Facilities Services-Building Services-HVAC
+245101,FS-Bldg Svcs-HVAC-Aux Equip,Facilities Services-Building Services-HVAC-Auxiliary Equipment
+245102,FS-Bldg Svcs-HVAC-Controls,Facilities Services-Building Services-HVAC-Controls
+245103,FS-Bldg Svcs-HVAC-DDC,Facilities Services-Building Services-HVAC-Direct Digital Controls
+245104,FS-Bldg Svcs-HVAC-Refrig,Facilities Services-Building Services-HVAC-Refrigeration
+245105,FS-Ops Plan&Design-TBD8,"Facilities Operations, Planning and Design - TBD8"
+245120,FS-Bldg Svcs-HVAC-2nd Shift,Facilities Services-Building Services-HVAC-Second Shift Operations
+245200,FS-Bldg Svcs-Campus Maint,Facilities Services-Building Services-Campus Maintenance
+245201,FS-Bldg Svcs-CMaint-Plumbing,Facilities Services-Building Services-Campus Maintenance-Plumbing
+245202,FS-Bldg Svcs-CMaint-Carpentry,Facilities Services-Building Services-Campus Maintenance-Carpentry
+245203,FS-Bldg Svcs-CMaint-Electrical,Facilities Services-Building Services-Campus Maintenance-Electrical
+245204,FS-Bldg Svcs-CMaint-SAC,Facilities Services-Building Services-Campus Maintenance-Smith Activity Center
+245205,FS-Bldg Svcs-CMaint-Masonry,Facilities Services-Building Services-Campus Maintenance-Masonry
+245206,FS-Bldg Svcs-Cmaint-Insulation,Facilities Services-Building Services-Campus Maintenance-Insulation
+245220,FS-Bldg Svcs-CMaint-2nd Shift,Facilities Services-Building Services-Campus Maintenance-Second Shift Operations
+245300,FS-Bldg Svcs-Life Safety andAC,Facilities Services-Building Services-Life Safety and Access Controls
+245301,FS-Bldg Svcs-LSAC-Generator,Facilities Services-Building Services-Life Safety and Access Controls Generator
+245302,FS-Bldg Svcs-LSAC-LS Systems,Facilities Services-Building Services-Life Safety and Access Controls-Systems
+245303,FS-Bldg Svcs-LSAC-Hardware,Facilities Services-Building Services-Life Safety and Access Controls-Hardware
+245304,FS-Bldg Svcs-LSAC-PM Cntrcts,Facilities Services-Building Services-Life Safety and Access Controls-Preventative Maintenance and Contract Maintenance
+245320,FS-Bldg Svcs-LSAC-2nd Shift,Facilities Services-Building Services-Life Safety and Access Controls-Second Shift Operations
+245400,FS-Bldg Svcs-Housing Maint,Facilities Services-Building Services-Housing Maintenance
+245401,FS-Bldg Svcs-HMaint-Store,Facilities Services-Building Services-Housing Maintenance-Storeroom
+245402,FS-Bldg Svcs-HMaint-Admin,Facilities Services-Building Services-Housing Maintenance-Administrative Office
+245403,FS-Bldg Svcs-HMaint-Design,Facilities Services-Building Services-Housing-Maintenance Design Services
+245404,FS-Bldg Svcs-HMaint-Deputy,Facilities Services-Building Services-Housing Maintenance-Deputy Office
+245405,FS-Bldg Svcs-HMaint-Carpentry,Facilities Services-Building Services-Housing Maintenance-Carpentry
+245406,FS-Bldg Svcs-HMaint-HVAC,Facilities Services-Building Services-Housing Maintenance-HVAC
+245407,FS-Bldg Svcs-HMaint-Plumbing,Facilities Services-Building Services-Housing Maintenance-Plumbing
+245408,FS-Bldg Svcs-HMaint-North,Facilities Services-Building Services-Housing Maintenance-North
+245409,FS-Bldg Svcs-HMaint-South,Facilities Services-Building Services-Housing Maintenance-South
+245410,FS-Bldg Svcs-HMaint-Odum Vllge,Facilities Services-Building Services-Housing Maintenance-Odum Village
+245411,FS-Bldg Svcs-HMaint-Electrical,Facilities Services-Building Services-Housing Maintenance-Electrical
+245412,FS-Bldg Svcs-HMaint-Paint,Facilities Services-Building Services-Housing Maintenance-Painting
+245413,FS-Bldg Svcs-HMaint-Locksmith,Facilities Services-Building Services-Housing Maintenance-Locksmith
+245500,FS-Ops Plan&Design-TBD5,"Facilities Operations, Planning and Design - TBD5"
+245501,FS-Ops Plan&Design-TBD6,"Facilities Operations, Planning and Design - TBD6"
+245502,FS-Ops Plan&Design-TBD7,"Facilities Operations, Planning and Design - TBD7"
+246000,FS-Design and Construction Svc,Facilities Services-Design and Construction Services-Design and Construction Services
+246001,FS-DCS-Project Management,Facilities Services-Design and Construction Services-Project Management
+246002,FS-DCS-Contract Administration,Facilities Services-Design and Construction Services-Administrative Office
+246100,FS-DCS-Design and Engineering,Facilities Services-Design and Construction Services-Design and Engineering
+246101,FS-DCS-Dsgn and Eng-Int Design,Facilities Services-Design and Construction Services-Design and Engineering-Interior Design
+246200,FS-DCS-Construction Services,Facilities Services-Design and Construction Services-Construction Services
+246201,FS-DCS-Const Svcs-Plumbing,Facilities Services-Design and Construction Services-Construction Services-Plumbing
+246202,FS-DCS-Const Svcs-Carpentry,Facilities Services-Design and Construction Services-Construction Services-Carpentry
+246203,FS-DCS-Const Svcs-Electrical,Facilities Services-Design and Construction Services-Construction Services-Electrical
+246204,FS-DCS-Const Svcs-Sheetmetal,Facilities Services-Design and Construction Services-Construction Services-Sheetmetal
+246205,FS-DCS-Const Svcs-Small Jobs,Facilities Services-Design and Construction Services-Construction Services-Small Jobs
+246206,FS-DCS-Const Svcs-Painting,Facilities Services-Design and Construction Services-Construction Services-Painting
+246207,FS-DCS-Const Svcs-Signs,Facilities Services-Design and Construction Services-Construction Services-Signs
+246300,FS-DCS-Work Mgt and Estimating,Facilities Services-Design and Construction Services-Work Management and Estimating
+246301,FS-DCS-Wk Mgt and Est-Wk Rcptn,Facilities Services-Design and Construction Services-Work Management and Estimating-Work Reception
+247000,FS-Energy Management,Facilities Services-Energy Management-Energy Management
+247001,FS-Energy Mgt-EMCS,Facilities Services-Energy Management-Energy Management Control Systems
+247002,FS-Energy Mgt-Commisioning,Facilities Services-Energy Management-Commissioning
+247100,FS-Ops Plan&Design-TBD1,"Facilities Operations, Planning and Design - TBD1"
+247101,FS-Ops Plan&Design-TBD2,"Facilities Operations, Planning and Design - TBD2"
+247200,FS-Ops Plan&Design-TBD3,"Facilities Operations, Planning and Design - TBD3"
+248000,FS-Administration,Facilities Services-Administration-Administration
+248001,FS-Admin-Technology Svcs,Facilities Services-Administration-Technology Services
+248002,FS-Admin-Capital Accounting,Facilities Services-Administration-Capital Accounting
+248003,FS-Admin-Fin Rptg and Budgets,Facilities Services-Administration-Financial Reporting and Budgets
+248004,FS-Admin-Bus and Fin Systems,Facilities Services-Administration-Business and Financial Systems
+248005,FS-Admin-Cost Accounting,Facilities Services-Administration-Cost Accounting
+248006,FS-Admin-Mfleet and Non FS MV,Facilities Services-Administration-Motor Fleet and Non-Facilities Services Motor Vehicles
+248100,FS-Admin-Central,Facilities Services-Administration-Central
+248200,FS-Admin-Human Resources,Facilities Services-Administration-Human Resources
+248201,FS-Admin-HR-Training,Facilities Services-Administration-Human Resources-Training Office
+248300,FS-Admin-Materials and Lgstcs,Facilities Services-Administration-Materials and Logistics
+248301,FS-Admin-ML-Warehouse Ops,Facilities Services-Administration-Materials and Logistics-Warehouse Operations
+248400,FS-Admin-Garage Ops,Facilities Services-Administration-Garage Operations
+248401,FS-Admin-Garage Ops-Grounds,Facilities Services-Administration-Garage Operations-Grounds Garage
+248402,FS-Admin-Garage Ops-Mtr Pool,Facilities Services-Administration-Garage Operations-Motor Pool
+248500,FS-Admin-OWRR,Facilities Services-Administration-Office of Waste Reduction and Recycling
+248501,FS-Admin-OWRR-Operations,Facilities Services-Administration-Office of Waste Reduction and Recycling-Operations
+250000,Development/Comm andPublic Aff,VC for Development and VC for Communications and Public Affairs
+250100,V Chancellor - Development,Vice Chancellor for University Development
+250101,VC Univ Dev - Development,Vice Chancellor for University Development - Development
+250102,VC Univ Adv - Supp Svcs,Vice Chancellor for University Development - Support Services
+258000,VC Communicat/Public Affairs,Vice Chancellor for Communications and Public Affairs
+259000,WUNC-FM,VC for Communications and Public Affairs - WUNCFM
+260000,VC Workforce Strat Equty Engag,Vice Chancellor Workforce Strategy Equity and Engagement
+260010,VC Workforce Strategy,Vice Chancellor Workforce Strategy Equity and Engagement
+260100,Human Resources,Office of Human Resources
+260101,OHR-Ofc of the Vice Chancellor,Office of Human Resources Office of the Vice Chancellor
+260102,OHR-Benefits Services,Office of Human Resources Benefits Services
+260103,OHR-Class and Comp,Office of Human Resources Classification and Compensation
+260104,OHR-Employee an Mgmt Relations,Office of Human Resources Employee and Management Relations
+260105,OHR-Employment and Staffing,Office of Human Resources Employment and Staffing
+260106,OHR-EPA Non-Faculty,Office of Human Resources EPA Non-Faculty HR
+260107,OHR-Communics and Talent Dev,Office of Human Resources HR Communications and Talent Development
+260108,OHR-Info and Systems,Office of Human ResourcesHR Information and Systems
+263000,Equal Opportunity/ADA Office,Equal Opportunity/ADA Office
+264000,Diversity/Multicultural Aff,Diversity/Multicultural Affairs
+265000,OHR-Disability Benefits,Office of Human Resources Disability Benefits
+270000,Ath Director of Athletics,Athletics General Administration
+270100,Ath Administration,Athletics General Administration
+270200,Ath Athletic Director,Athletics Director
+270300,Ath Finley Golf Course ProShop,Athletics Finley Golf Course Pro Shop
+270400,Ath New Media,Athletics New Media
+270500,Ath IT Support,Athletics IT Support
+270600,Ath Carolina Kids Club,Athletics Carolina Kids Club
+270700,Ath Olympic Sports Promotions,Athletics Olympic Sports Promotions
+270800,Ath Department Specials,Athletics Department Specials
+270900,Ath Department Endow Income,Athletics Department Endowment Income
+271000,Ath Business Office,Athletics Business Office
+271100,Ath Finley Golf Course,Athletics Finley Golf Course
+271200,Ath Outdoor Facility Oper,Athletics Outdoor Facility Operations
+271202,Ath Boshamer Stadium,Athletics Boshamer Stadium
+271203,Ath Navy Field,Athletics Navy Field
+271204,Ath Intramural Fields,Athletics intramural Fields
+271205,Ath Finley Fields,Athletics Finley Fields
+271206,Ath Tennis Facility,Athletics Tennis Facility
+271207,Ath Kenan Stadium,Athletics Kenan Stadium
+271208,Ath Fetzer Field,Athletics Fetzer Field
+271209,Ath McCaskill Soccer Center,Athletics McCaskill Soccer Center
+271210,Ath Henry Stadium,Athletics Henry Stadium
+271211,Ath Eddie Smith Field House,Athletics Eddie Smith Field House
+271212,Ath Anderson Softball Stadium,Athletics Anderson Softball Stadium
+271213,Ath Loudermilk Center,Athletics Loudermilk Center
+271214,Ath Golf Team Facility,Athletics Golf Team Facility
+271215,Ath Carmichael Arena,Athletics Carmichael Arena
+271216,Ath Turf and Grounds,Athletics Turf and Grounds
+271217,Ath 216 Finley Facility,Athletics 216 Finley Facility
+271218,Ath Scoreboard Maintenance,Athletics Scoreboard Maintenance
+271219,Ath Other Facilities,Athletics Other Facilities
+271226,Ath Blue Zone Facility,Athletics Blue Zone Facility
+271230,Ath Transportation,Athletics Transportation
+271271,Ath Olympic Sport Improvement,Athletics Olympic Sport Capital Improvements
+271272,Ath Boshamer Stadium Renovatn,Athletics Boshamer Stadium Renovations
+271273,Ath Navy Field Renovations,Athletics Navy Field Renovations
+271274,Ath Intramural Field Renovatn,Athletics Intramural Field Renovations
+271275,Ath Finley Field Renovations,Athletics Finley Field Renovations
+271276,Ath Tennis Facility Renovation,Athletics Tennis Facility Renovations
+271277,Ath Kenan Stadium Renovations,Athletics Kenan Stadium Renovations
+271278,Ath Fetzer Field Renovations,Athletics Fetzer Field Renovations
+271279,Ath Other Facility Renovations,Athletics Other Facility Renovations
+271280,Ath Navy Field Turf Project,Athletics Navy Field Turf Project
+271300,Ath Equipment Office,Athletics Equipment Office
+271400,Ath Ticket Office,Athletics Ticket Office
+271500,Ath Ticket Office Transactions,Athletics Ticket Office Transactions
+271600,Ath Event Management,Athletics Event Management
+271700,Ath Leadership Academy,Athletics Leadership Academy
+271800,Ath Memorabilia Room,Athletics Memorabilia Room
+271900,Ath Football Spirit Committee,Athletics Football Spirit Committee
+272100,Ath Academic Support Program,Athletics Academic Support Program
+272200,Ath Communications,Athletics Communications
+272300,Ath Sports Marketing,Athletics Sports Marketing
+272400,Ath Strength and Conditioning,Athletics Strength and Development
+272401,Ath Olympic Strength,Athletics Olympic Strength and Development
+272500,Ath Student Services,Athletics Student Services
+272600,Ath Cheerleaders,Athletics Cheerleaders
+272700,Ath Colonade Group,Athletics Colonade Group
+272800,Ath Koury Natatorium,Athletics Koury Natatorium
+272900,Ath Ernie Williamson AthltcCtr,Athletics Ernie Williamson Athletic Center
+273000,Ath Educational Foundation,Athletics Educational Foundation
+273100,Ath Smith Center,Athletics Smith Center
+273200,Ath Basketball museum,Athletics Basketball Museum
+273300,Ath Concessions,Athletics Concessions
+273400,Ath Kenan Football Center,Athletics Kenan Football Center
+273500,Ath Football Office,Athletics Football Office
+273600,Ath Drug Testing,Athletics Drug Testing
+273700,Ath Sports Medicine,Athletics Sports Medicine
+273800,Ath Football Video,Athletics Football Video
+273900,Ath Football Coaches Clinic,Athletics Football Coaches Clinic
+274000,Ath Basketball Office,Athletics Basketball Office
+274100,Ath Lettermans Lounge,Athletics Lettermans Lounge
+274200,Ath Kenan Fieldhouse,Athletics Kenan Fieldhouse
+274400,Ath Educational Fdn Inc,Athletics Educational Foundation Incoporated
+274500,Ath Olympic Sport Administratn,Athletics Olympic Sport Administration
+274600,Ath Olympic Sports Post-Season,Athletics Olympic Sports Post-Season
+275000,Ath Baseball Office,Athletics Baseball Office
+275100,Ath Track-Cross Country,Athletics Track-Cross Country
+275200,Ath Mens Tennis,Athletics Mens Tennis
+275300,Ath Dir of Tennis Facilities,Athletics Dir of Tennis Facilities
+275400,Ath  Mens Golf,Athletics  Mens Golf
+275500,Ath Swimming,Athletics Swimming
+275600,Ath  Mens Lacrosse,Athletics  Mens  Lacrosse
+275700,Ath Mens Soccer,Athletics Mens Soccer
+275800,Ath Wrestling,Athletics Wrestling
+275900,Ath Fencing,Athletics Fencing
+276500,Ath Rowing,Athletics Rowing
+276600,Ath Womens Basketball,Athletics Womens Basketball
+276700,Ath Womens Tennis,Athletics Womens Tennis
+276800,Ath Field Hockey,Athletics Field Hockey
+277000,Ath Gymnastics,Athletics Gymnastics
+277100,Ath Softball,Athletics Softball
+277200,Ath Volleyball,Athletics Volleyball
+277300,Ath Womens Soccer,Athletics Womens Soccer
+277400,Ath Womens Lacrosse,Athletics Womens Lacrosse
+277500,Ath Womens Golf,Athletics Womens Golf
+279000,Ath Olympic Sp Admin,Athletics Olympic Sports Admin
+279300,Ath Dept Game/Event,Athletics Dept Game/Event
+279400,Ath Smith Center Events,Athletics Smith Center Events
+279600,Ath Dept Tournaments,Athletics Dept Tournaments
+279700,Ath Away Game Sales,Athletics Away Game Sales
+279800,Ath Budget Reserves,Athletics Budget Reserves
+279900,Ath General Receipts,Athletics General Receipts
+280000,Budget Office Control,Budget Office Control
+280100,Budget Tuition,Budget Office Tuition
+280200,Budget Committee,Budget Committee
+280300,Budget Dual Employ,Budget Office Dual Employment
+280400,Budget Control,Budget Control
+283000,UCA - Student Accts & Rec,University Central Accounts - Stud Acct & Receivables
+283100,UCA - Student Accounts,University Central Accounts - Stud Accounts
+283200,UCA - Deposits,University Central Accounts - Deposits
+283300,UCA - Loans,University Central Accounts - Loans
+284000,UCA - Controller,University Central Accounts - Controller
+285000,UCA - Accounting Services,University Central Accounts - Accounting Services
+285100,UCA - Accting Svcs-Lving Trust,University Central Accounts - Accounting Services Living Trust
+285200,UCA - Accting Svcs-CI,University Central Accounts - Accounting Services Capital Improvements
+285300,UCA - Accting Svcs-Foundations,University Central Accounts - Accounting Services Foundations
+285400,UCA - Accting Svcs-Invest Pool,University Central Accounts - Accounting Services Investment Pools
+286000,UCA - Treasury & Risk,University Central Accounts - Treasury & Risk
+287000,UCA - Procurement,University Central Accounts - Procurment
+288000,UCA - Payroll,University Central Accounts - Payroll
+300000,Arts and Sciences Deans Ofc,Arts and Sciences Deans Office
+300100,Arts and Sciences Deans Office,Arts and Sciences Deans Office
+300101,Arts and Sciences Foundation,Arts and Sciences Foundation
+300102,A and S - Business Center,Arts and Science Business Center
+301000,Arts and Sci Information Svcs,Office of Arts and Sciences Information Services
+302100,Academic Advising,Academic Advising Program
+302200,Honors,Honors Carolina
+302201,Distinguished Scholarships,Office of Distinguished Scholarships
+302202,Winston House,Winston House
+302203,Johnston Center,Johnston Center for Undergraduate Excellence
+302300,Robertson Scholars Prog,The Robertson Scholars Program
+302400,Stdt Success Acad Counslng,Center for Student Success and Academic Counseling
+302401,Writing and Learning Center,Writing and Learning Center
+302401,Writing and Learning Center,Writing and Learning Center
+302402,Summer Bridge,Summer Bridge
+302500,Undergraduate Education,Undergraduate Education Office
+302501,Undergraduate Curricula,Undergraduate Curricula
+302502,First Year Seminars,First Year Seminars
+302503,Student Retention,Student Retention
+302600,Undergraduate Research,Undergraduate Research
+310100,Art,Art
+310200,Dramatic Art,Dramatic Art
+310201,PlayMakers Repertory,PlayMakers Repertory Company
+310300,Music,Music
+311100,American Studies,American Studies
+311200,Arts and Humanities Institute,Institute for the Arts and Humanities
+311300,Classics,Classics
+311400,Communication Studies,Communication Studies
+311401,Writing for Screen   Stage,Writing for the Screen and Stage
+311500,English and Comp Literature,English and Comparative Literature
+311600,Germanic and Slavic Lang Lit,Germanic and Slavic Languages and Literatures
+311601,Jewish Studies,Carolina Center for Jewish Studies
+311700,Humanities and Human Values,Humanities and Human Values
+311800,Linguistics,Linguistics
+311900,Philosophy,Philosophy
+312000,Religious Studies,Religious Studies
+312100,Romance Languages,Romance Languages
+312200,Study of American South,Center for the Study of the American South
+312300,Womens and Gender Stds,Womens and Gender Studies
+312301,Sexuality Studies,Sexuality Studies
+313100,African Studies Center,African Studies Center
+313200,Carolina Asia Center,Carolina Asia Center
+313300,European Studies Center,Center for European Studies
+313400,GEC Building Operations,FEDEX Global Education Center Building Operations
+313500,Global Studies,Global Studies
+313600,Mid East and Muslim Civ Ctr,Carolina Center for the Study of Middle East and Muslim Civilizations
+313700,Slavic Eur E Europ Stds Ctr,Center for Slavic Eurasian and East European Studies
+313800,Study Abroad,Study Abroad
+313900,Study of the Americas,Institute for the Study of the Americas
+315100,Aerospace Studies,Aerospace Studies
+315200,African Afrl-Amer and Diaspora,African African-American and Diaspora Studies
+315300,Anthropology,Anthropology
+315400,Archaeology,Archaeology
+315500,Asian Studies,Asian Studies
+315600,City and Regional Planning,City and Regional Planning
+315700,Economics,Economics
+315701,Entrepreneurship,Entrepreneurship Minor
+315800,Geography,Geography
+315900,History,History
+315901,Medieval and Early Modern,Program in Medieval and Early Modern Studies
+316000,Military Science,Military Science
+316100,Naval Science,Naval Science (NROTC)
+316200,Peace War and Defense,Peace War and Defense
+316300,Political Science,Political Science
+316400,Public Policy,Public Policy
+316500,Sociology,Sociology
+316600,Urban and Regional Stds Ctr,Center for Urban and Regional Studies
+316601,Community Capital,Center for Community Capital
+318100,Applied Physical Sciences,Applied Physical Sciences
+318100,Applied Physical Sciences,Applied Physical Sciences
+318200,Biology,Biology
+318300,Chemistry,Chemistry
+318400,Computer Science,Computer Science
+318500,Environment and Ecology,Environment and Ecology
+318600,Exercise and Sport Science,Exercise and Sport Science
+318700,Geological Sciences,Geological Sciences
+318800,Marine Sciences,Marine Sciences
+318900,Mathematics,Mathematics
+319000,Physics and Astronomy,Physics and Astronomy
+319100,Psychology,Psychology
+319100,Psychology,Psychology
+319200,Statistics and Operations Res,Statistics and Operations Research
+319300,Biomedical Engineering-UG,Biomedical Engineering - Undergraduate
+330000,Kenan-Flagler Business School,Kenan-Flagler Business School
+330100,Kenan-Flagler Bus Sch,Kenan-Flagler Business School
+330500,K F Sch Bus Fdn,Kenan-Flagler Business School Foundation
+331600,Kenan Institute of Private Ent,Frank Hawkins Kenan Institute of Private Enterprise
+331600,Kenan Institute of Private Ent,Frank Hawkins Kenan Institute of Private Enterprise
+331700,SBTDC KFBS Regional Svc Ctr,Small Business Technology and Development Center - KFBS Regional Service Center
+340000,Sch of Educ Deans Ofc,School of Education Deans Office
+340100,School of Education Deans Ofc,School of Education Deans Office
+340100,School of Education Deans Ofc,School of Education Deans Office
+340300,School of Education Foundation,School of Education Foundation
+350000,JOMC Administration,School of Journalism and Mass Communication Administration
+350100,JOMC Admin,School of Journalism and Mass Communication Administration
+353000,Journalism Foundation,School of Journalism and Mass Communication Foundation of North Carolina INC.
+360000,School of Law,School of Law
+360001,Law,School of Law
+360110,Law Administration,School of Law Administration
+360120,Law Facilities,School of Law Facilities
+360130,Law IT,School of Law Information Technology
+360140,Law Advancement,School of Law Advancement
+360150,Law Alumni Relations,School of Law Alumni Relations
+360160,Law Communications,School of Law Communications
+360170,Law Foundation,Law Foundation
+360410,Law Faculty,School of Law Faculty
+360420,Law Faculty Research RA,School of Law Faculty Research and Research Assistants
+360430,Law Faculty Profess Developmnt,School of Law Faculty Professional Development
+361010,Law Deans Office,School of Law Deans Office
+361020,Law Academic Deans,School of Law Academic Deans
+361030,Law Library,Katherine R. Everett Law Library
+361040,Law Trial Advocacy,School of Law Trial Advocacy
+361050,Law Externship,School of Law Externship
+361100,Law Clinic,School of Law Clinical Programs
+361200,Law WLRC,School of Law Writing and Learning Resource Center (WLRC)
+361300,Law International Programs,School of Law International Programs
+362000,Law CLE,School of Law Continuing Legal Education (CLE)
+362510,Law CLEO,School of Law CLEO
+363010,Law Admissions,School of Law Admissions
+363020,Law Student Services Office,School of Law Student Services Office
+363022,Law Public Service,School of Law Public Service Programs
+363023,Law Student Organizations,School of Law Student Organizations
+363030,Law CDO,School of Law Career Development Office (CDO)
+363040,Law Scholarships and LRAP,School of Law Scholarships and LRAP
+363510,Law Center for Banking,School of Law Center for Banking and Finance
+363520,Law Center for Civil Rights,School of Law Center for Civil Rights
+363530,Law Center for Poverty,School of Law Center for Poverty Work and Opportunity
+363540,Law CLEAR,School of Law Center for Law Environment Adaptation and Resources (CLEAR)
+363550,Center for Media Law & Policy,School of Law Center for Media Law & Policy
+363560,Law Law and Government,School of Law Center for Law and Government
+370000,School of Info and Libr Sci,School of Information and Library Science
+370101,Sch of Inform and Libr Science,School of Information and Library Science
+375000,School of Government,School of Government Deans Office
+375100,SOG Deans Ofc,School of Government Deans Office
+375101,SOG Schools and Conferences,School of Government-Schools and Conferences
+375102,SOG Publications,School of Government-Publications
+375200,SOG Sch of Government Fdn,School of Government Foundation
+375300,SOG MPA Program,School of Government-Masters of Public Administration Program
+375400,SOG MPA Online Program,School of Government-Masters of Public Administration Online Program
+375500,SOG Judicial College,School of Government-Judicial College
+375600,SOG Legislative Reporting Svc,School of Government-Legislative Reporting Service
+375700,SOG Environmental Finance Ctr,School of Government-Environmental Finance Center
+375800,SOG Ctr for Public Technology,School of Government-Center for Public Technology
+375900,SOG Ctr for Economic Developmt,School of Government-Center for Economic Development
+380000,School of Social Work,School of Social Work
+380100,SW-School of Social Work,School of Social Work
+380200,SW-Development Office,School of Social Work-Development Office
+380300,SW-Business Office,School of Social Work-Business Office
+380400,SW-CITU,School of Social Work-Computing and Information Technology Unit
+380700,SW-PhD Program,School of Social Work-PhD Program
+380800,SW-MSW Program,School of Social Work-MSW Program
+380801,SW-MSW Program-DE,School of Social Work-MSW Program-Distance Education-Shared
+380805,SW-MSW Program-Field Ed,School of Social Work-MSW Program-Field Education
+381000,SW-Cntr Aging Res and Edu Srvc,School of Social Work-Center for Aging Research and Educational Services
+381100,SW-Behav Hlthcr Res Program,School of Social Work-Behavioral Healthcare Resource Program
+381200,SW-Family Support Program,School of Social Work-Family Support Program
+381200,SW-Family Support Program,School of Social Work-Family Support Program
+381300,SW-Dev Disabilities Trng Inst,School of Social Work-Developmental Disabilities Training Institute
+381400,SW-The Middle Space,School of Social Work-The Middle Space
+381500,SW-Fam & Child Res Program,School of Social Work-Family and Children's Resource Program
+382000,SW-Research Projects,School of Social Work-Research Projects
+384900,Sch Social Work Fdn,School of Social Work Foundation
+390000,Graduate School,Graduate School
+390100,Grad School,Graduate School
+395000,Summer School Admin,Summer School Administration
+395100,Summer School Administration,Summer School Administration
+400000,School of Medicine,School of Medicine
+400101,AHEC - Administration,AHEC - Administration - Program Office
+400201,AHEC - MEDAIR,AHEC-Medical Air
+400501,AHEC - Area L,AHEC - Area L
+401001,AHEC - Charlotte,AHEC - Charlotte
+401501,AHEC - Duke-Southern Regional,AHEC-Duke and Southern Regional
+402001,AHEC - Eastern,AHEC - Eastern
+402501,AHEC - Greensboro,AHEC - Greensboro
+403001,AHEC - Mountain,AHEC - Mountain
+403501,AHEC - Northwest,AHEC - Northwest
+404001,AHEC - Southeast,AHEC - Southeast
+404501,AHEC - Wake,AHEC - Wake
+404601,AHEC - Unallocated,AHEC - Unallocated
+404701,AHEC - Residency,AHEC - Residency
+405001,Medical School Aircraft,Medical School Aircraft
+405501,Allied Health Sciences-Admin,Allied Health Sciences-Administration
+405502,Allied Health - CLDS,Allied Health - Center for Literacy and Disability Studies
+405503,Allied Health - SPHS,Allied Health - Speech and Hearing Sciences
+405504,Allied Health - Rad Sci,Allied Health - Radiologic Science
+405505,Allied Health - CLS,Allied Health - Clinical Laboratory Science
+405506,Allied Health - RCP,Allied Health - Rehabilitation Counseling and Psychology
+405507,Allied Health - PT,Allied Health - Physical Therapy
+405508,Allied Health - OT,Allied Health - Occupational Therapy
+405509,Allied Health - PA,Allied Health - Physicians Assistance Program
+405510,Allied Health - SS,Allied Health - Student Services
+405599,Allied Health - AHEC,Allied Health - AHEC
+410101,UNCFP Administration,UNCFP Administration
+410102,UNCFP Regional Services,UNCFP Regional Services
+410103,UNCFP Receipt Refund Clrng,UNCFP Receipt Refund Clearing
+410104,UNCFP Undesignated,UNCFP Undesignated
+410105,UNCFP Managed Care,UNCFP Managed Care
+411201,Emergency Medicine,Emergency Medicine
+411205,Emergency Medicine-Research,Emergency Medicine-Research
+411401,Medicine Administration,Medicine Administration
+411402,Med Clinic Administration,Med Clinic Administration
+411403,Medicine - HouseStaff,Medicine - HouseStaff
+411404,Medicine Hospitalist,Medicine Hospitalist
+411405,Medicine - Cardiology,Medicine - Cardiology
+411406,Medicine - Genetics,Medicine - Genetics
+411410,Medicine-Endocrinology,Medicine-Endocrinology
+411420,Medicine-Gastroenterology,Medicine-Gastroenterology
+411430,Medicine-Internal Medicine,Medicine-Internal Medicine
+411440,Med-Geriatric Medicine,Med-Geriatric Medicine
+411450,Medicine-UNCP A Rheumatology,Medicine-UNCP A Rheumatology
+411451,Med-P A Allergy and Immunology,Medicine-UNCP A Allergy and Immunology
+411460,Med-Infectious Diseases,Medicine-Infectious Diseases
+411462,Med-ID Trnsplt Compromised Hst,Medicine-ID Transplant Compromised Host
+411470,Med-Nephrology,Medicine-Nephrology
+411480,Med-Pulmonary,Medicine-Pulmonary
+411490,Medicine-Hematology,Medicine-Hematology
+411491,Medicine-Oncology,Medicine- Oncology
+411492,Medicine-HemOnc Sanford,Medicine - HemOnc Sanford
+411493,Med-Hemaphelia Trtment Center,Med-Hemophelia Treatment Center
+411499,Medicine - AHEC,Medicine - AHEC
+411601,Family Medicine,Family Medicine
+411605,Family Med-Comm Outreach Innov,Family Medicine-Community Outreach   Innovation
+411699,Family Medicine-AHEC,Family Medicine-AHEC
+411801,Neurology,Neurology
+411802,Neuroscience,Neuroscience
+411805,Neurology-Pediatrics,Neurology-Pediatrics
+411810,Neurology-Cognitive Mem Dis,Neurology-Cognitive Memory Disorders
+411815,Neurology-ICU,Neurology-Intensive Care Unit
+411820,Neurology-Movement Disorders,Neurology-Movement Disorders
+411825,Neurology-Neuroimmunology,Neurology-Neuroimmunology
+411830,Neurology-Neuromuscular,Neurology-Neuromuscular
+411835,Neurology-Oncology,Neurology-Oncology
+411840,Neurology-Sleep,Neurology-Sleep
+411845,Neurology-Epilepsy,Neurology-Epilepsy
+411850,Neurology-Stroke,Neurology-Stroke
+411899,Neurology-AHEC,Neurology-AHEC
+412001,Pediatrics - Administration,Pediatrics - Administration
+412002,Peds-AIR,Pediatrics - Allergy Immunology and Rheumatology
+412003,Peds-Cardiology,Pediatrics - Cardiology
+412004,Child Medical Evaluation Prog,Child Medical Evaluation Program
+412005,Developmental/Behavioral Peds,Developmental/Behavioral Pediatrics
+412006,Peds-Emergency Medicine,Pediatrics - Emergency Medicine
+412007,Peds-Endocrinology,Pediatrics - Endocrinology
+412008,Peds-Gastroenterology,Pediatrics - Gastroenterology
+412009,General Pediatrics,General Pediatrics
+412010,Peds-Genetics and Metabolism,Pediatrics - Genetics and Metabolism
+412011,Peds-Hematology/Oncology,Pediatrics - Hematology/Oncology
+412012,Peds-LRB,Pediatrics - Laboratories for Reproductive Biology
+412013,Neonatal-Perinatal Medicine,Neonatal-Perinatal Medicine
+412014,Peds-Pulmonology,Pediatrics - Pulmonology
+412015,Pediatrics-Education,Pediatrics- Education
+412016,Peds-Critical Care Medicine,Pediatrics- Critical Care Medicine
+412017,Pediatrics-Infectious Disease,Pediatrics-Infectious Disease
+412098,Pediatrics- Development,Pediatrics- Development/Philanthropy
+412099,Pediatrics - AHEC,Pediatrics - AHEC
+412201,Psychiatry - Administration,Psychiatry-Administration
+412202,Psychiatry - General,Psychiatry - General
+412203,Psychiatry - Faculty Practice,Psychiatry - Faculty Practice
+412204,Psychiatry-Child OutputProgram,Psychiatry - Child Output Program
+412210,Psychiatry-Centr ofExcel-ADMIN,Psychiatry - Center of Excellence - Administration
+412211,Psychiatry-Centr of Excel-STEP,Psychiatry - Center of Excellence - Schizophrenia Treatment and Evaluation Program (STEP)
+412212,Psychiatry-Centr ofExcel-OASIS,Psychiatry - Center of Excellence - Outreach and Support Intervention Services (OASIS)
+412213,Psychiatry-Centr of Excel-CRC,Psychiatry - Center of Excellence - Community Resource Court (CRC)
+412214,Psychiatry - XDS,Psychiatry - Community Enhanced Services (XDS)
+412215,Psychiatry-Centr of Excel-ACT,Psychiatry - Center of Excellence - Assertive Community Treatment Team Technical Assistance
+412216,Psychiatry-Centr of Excel-Dept,Psychiatry - Center of Excelllence - Department of Justice Contract
+412217,Psychiatry-Centr of Excel-Hosp,Psychiatry - Center of Excellence - Hospital Transition Team
+412218,Psychiatry-NC Research Center,Psychiatry - NC Research Center
+412230,Psychiatry-WakeBrook Admin,Psychiatry - WakeBrook Admin
+412231,Psychiatry-Wakebrook CAS,Psychiatry - Wakebrook CAS
+412232,Psychiatry-Wakebrook ATC,Psychiatry - Wakebrook ATC
+412233,Psychiatry-Wakebrook FBC,Psychiatry  -Wakebrook FBC
+412234,Psychiatry-Wakebrook Inpatient,Psychiatry - Wakebrook Inpatient
+412235,Psychiatry-WakeBrook Primary C,Psychiatry - WakeBrook Primary Care Clinic
+412236,Psychiatry-Wakebrook STEP,Psychiatry - Wakebrook STEP
+412237,Psychiatry-WakeBrook ACT Team,Psychiatry - WakeBrook Assertive Community Treatment Team (ACTT)
+412250,Psychiatry - Research,Psychiatry - Research
+412299,Psychiatry - AHEC,Psychiatry - AHEC
+412401,Obstetrics Gynecology-Admin,Obstetrics and Gynecology-Admin
+412410,OBGYN-ALPP,Obstetrics and Gynecology-Advanced Laparoscopy and Pelvic Pain
+412420,OBGYN-Midwifery,Obstetrics and Gynecology-Midwifery
+412430,OBGYN-GynOnc,Gynecologic Oncology
+412433,OBGYN-GynOnc Rex,Obstetrics and Gynecology-Gynecologic Oncology Rex
+412435,OBGYN-GynOnc Cone Health,Obstetrics and Gynecology-Gynecologic Oncology Cone Health
+412437,OBGYN-GynOnc Greensboro,Obstetrics and Gynecology-Gynecologic Oncology GREENSBORO
+412440,OBGYN-MFM,Obstetrics and Gynecology-Maternal Fetal Medicine
+412442,OBGYN-MFM at Rex,Obstetrics and Gynecology-Maternal Fetal Medicine At Rex
+412443,OBGYN-MFM Telemedicine,Obstetrics and Gynecology-Maternal Fetal Medicine telemedicine
+412445,OBGYN-MSS Prenatal Diabetes,OBGYN-MSS Prenatal Diabetes
+412448,OBGYN-Ultrasound,OBGYN-Ultrasound
+412450,OBGYN-REI,Obstetrics and Gynecology-Reproductive Endocrinology and Infertility
+412460,OBGYN-Urogyn,Obstetrics and Gynecology-Urogynecology and Reconstructive Pelvic Surgerey
+412462,OBGYN-Pelvic Health Center Rex,Obstetrics and Gynecology-Pelvic Health Center Rex
+412470,OBGYN-WPH,Obstetrics and Gynecology-Womens Primary Healthcare
+412472,OBGYN-Timberlyne,Obstetrics and Gynecology-Timberlyne
+412473,OBGYN-Panther Creek,Obstetrics and Gynecology-Panther Creek
+412475,OBGYN-Family Planning,Obstetrics and Gynecology-Family Planning
+412480,OBGYN-Horizons,Obstetrics and Gynecology-HORIZONS
+412490,OBGYN-Global Health,Obstetrics and Gynecology-Global Health
+412499,Obstetrics Gynecology - AHEC,Obstetrics and Gynecology - AHEC
+412601,Dermatology-Admininstration,Dermatology-Admininstration
+412602,Dermatology - Medical Derm,Dermatology - Medical Derm
+412603,Dermatology-MOHS,Dermatology-MOHS
+412604,Dermatology-Dermpath,Dermatology-DermPath
+412605,Dermatology-IF,Dermatology-IF
+412606,Dermatology-Rex General,Dermatology-Rex General
+412607,Dermatology-Rex MOHS,Dermatology-Rex MOHS
+412620,Dermatology-Research,Dermatology-Research
+412699,Dermatology - AHEC,Dermatology - AHEC
+412801,Radiology-Administration,Radiology-Administration
+412802,Radiology - Research,Radiology - Research
+412803,Rdiolgy-H V-VascularIntervntnl,Heart and Vascular - Vascular Interventional Radiology
+412804,Radiology - Breast Imaging,Radiology - Breast Imaging
+412805,Radiology - Chest,Radiology - Chest
+412806,Radiology-Interventional Neuro,Radiology - Interventional Neuroradiology
+412807,Radiology-Musculoskeletal Imag,Radiology - Musculoskeletal Imaging
+412808,Radiology - Nuclear Medicine,Radiology - Nuclear Medicine
+412809,Radiology - Neuroradiology,Radiology - Neuroradiology
+412810,Radiology - Pediatric Imaging,Radiology - Pediatric Imaging
+412811,Radiology - Residency Program,Radiology - Residency Program
+412813,Radiology - Abdominal Imaging,Radiology - Abdominal Imaging
+413001,Radiation Oncology - Admin,Radiation Oncology - Admininstration
+413002,Radiation Oncology-Chapel Hill,Radiation Oncology - Chapel Hill
+413003,Radiation Oncology - Rex,Radiaion Oncology - Rex
+413004,Radiation Oncology - Hospital,Radiation Oncology - UNC Hospital
+413005,Radation Oncology - High Point,Radation Oncology - High Point
+413006,Radiation Oncology - Caldwell,Radiation Oncology - Caldwell
+413201,Ophthalmology - Administration,Ophthalmology - Administration
+413243,Ophthalmology - Roxboro,Ophthalmology - Roxboro
+413245,Ophthalmology - Optical Shop,Ophthalmology - Optical Shop
+413248,Ophthalmology - ACC,Ophthalmology - Ambulatory Care Center
+413249,Ophthalmology - OphthCarCr,Ophthalmology - Carolina Crossing
+413250,Ophthalmology-Chapel Hill Nrth,Ophthalmology - Chapel Hill North
+413266,Ophthalmology - Siler City,Ophthalmology - Siler City
+413267,Ophthalmology - New Bern,Ophthalmology - New Bern
+413401,Physical Medicine Rehab-Admin,Physical Medicine and Rehabilitation - Administration
+413410,Physical Medicine Rehab-Clin,Physical Medicine and Rehabilitation - Clinical
+413415,Physical Medicine Rehab-Accup,Physical Medicine and Rehabilitation - Accupuncture
+413420,Physical Medicine Rehab-RexSub,Physical Medicine and Rehabilitation - Rex Subacute
+413425,Physical Med RehabApexLongTerm,Physical Medicine and Rehabilitation - Apex Long Term Care
+413430,Physical Medicine Rehab-Res,Physical Medicine and Rehabilitation - Research
+413440,Physical Medicine Rehab-PIM,Physical Medicine and Rehabilitation - Program on Integrative Medicine
+413450,Physical Medicine Rehab-Telab,Physical Medicine and Rehabilitation - Telability
+413455,Physical Medicine RehabApexSub,Physical Medicine and Rehabilitation - Apex Subacute
+413601,Anesthesiology-Administration,Anesthesiology-Administration
+413602,Pain Anesthesia,Pain Anesthesia
+413603,Anesth-PreCare,Anesthesiology-PreCare
+413604,OB Anesthesia,Obstetric Anesthesia
+413605,Anesthesia-Ancillary,Anesthesia-Ancillary
+413606,Critical Care Anesthesia,Critical Care Anesthesia
+413607,ACC Anesthesia,Ambulatory Anesthesia
+413608,General Anesthesia,General Anesthesia
+413609,Anesth-Pediatric Sedation,Anesthesiology-Pediatric Sedation
+413613,Pediatric Anesthesia,Pediatric Anesthesia
+413614,Anesth-CRNA,CRNA - Certified Registered Nurse Anesthetist
+413621,Anesthesia-GI,Anesthesia-GI
+413623,Anesthesia-Off Site,Anesthesia-Off Site
+413801,Pathology   Lab Med - Admin,Pathology and Lab Medicine - Administration
+413802,Pathology   Lab Med-Clinical,Pathology and Lab Medicine - Clinical
+413803,Pathology   Lab Med-Nephropath,Pathology   Lab Med-Nephropathology
+413804,Pathology   Lab Med- Research,Pathology and Lab Medicine - Research
+413805,Pathology   Lab Med- Recharge,Pathology and Lab Medicine - Recharge Service Centers
+413806,Pathology   Lab Med- FROBL,Pathology and Lab Medicine - FROBL
+414001,Surgery-Administration,Surgery-Administration
+414002,Surgery - General Surgery,Surgery - General Surgery
+414005,Surgery - Burn Center,Surgery - Burn Center
+414010,Surgery - Cardiothoracic,Surgery - Cardiothoracic
+414015,Surgery - Gastrointest Surgery,Surgery - Gastrointestinal Surgery
+414020,Surgery - Surgical Oncology,Surgery - Surgical Oncology
+414025,Surgery - Pediatric,Surgery - Pediatric
+414030,Surgery - Plastic Reconstruct,Surgery - Plastic   Reconstructive
+414035,Surgery - Transplant,Surgery - Transplant
+414040,Surgery - TraumaCriticalCare,Surgery - Trauma   Critical Care
+414055,Surgery - BRAC,Surgery - BRAC
+414060,Surgery - GI MIS,Surgery - GI MIS
+414080,Surgery - Research   Other,Surgery - Research   Other
+414099,Surgery - AHEC,Surgery - AHEC
+414101,Urology - Admin,Urology - Administration
+414105,Urology - Clinic,Urology - Clinic
+414201,Neurosurgery - Admin,Neurosurgery Administration
+414202,Neurosurgery - Clinic,Neurosurgery Clinic
+414205,Neurosurgery - External Clinic,Neurosurgery External Clinics
+414401,Otolaryngology (Ent),Otolaryngology (ENT)
+414601,Orthopaedics - Admin,Orthopaedics - Administration
+414605,Orthopaedics - Sports Medicine,Orthopaedics - Sports Medicine
+414610,Orthopaedics - Carolina Pnt II,Orthopaedics - Carolina Pnt II
+414615,Orthopaedics - ACC,Orthopaedics - Ambulatory Care Center
+414699,Orthopaedics - AHEC,Orthopaedics - AHEC
+414801,Heart   Vascular -Admin,Heart and Vascular Care - Administration
+414802,Heart Vascular-VIR,Heart and Vascular Care- Vascular Interventional Radiology
+414803,Heart   Vascular-Cardiology,Heart and Vascular Care - Cardiology
+414804,Heart   Vasc-Adult Cardiac Sur,Heart and Vascular Care - Adult Cardiac Surgery
+414805,Heart   Vasc-Vascular Surg,Heart and Vascular Care- Vascular Surgery
+414806,Heart   Vasc-Cardio Ext Pract,Heart and Vascular Care- Cardiology External Practice
+414807,Heart   Vasc-Ad Car Ext Pract,Heart and Vascular Care- Adult Cardiac Surgery External Practice
+415001,Hillsborough MOB,Hillsborough Medical Office Building
+416001,UNCFP Affiliate Billing,UNCFP Affiliate Billing
+416002,Affiliatd Hosp Bill-Chatham Ed,Affiliated Hospital Billing - Chatham Ed
+416003,Affiliated H Bill-Chatham Hosp,Affiliated Hospital Billing - Chatham Hospital
+416004,Affiliated H Bill-Chatham Anes,Affiliated Hospital Billing - Chatham Anesthesiology
+416005,Affiliated H Bill-Chatham Chld,Affiliated Hospital Billing - Chatham Child
+416006,Affiliated H Bill-ChathamSrgGI,Affiliated Hospital Billing - Chatham Surgery GI
+416501,UNC HCS Home Office,UNC HCS Home Office
+417001,UNCFP Ambulatory Care Clinic,UNCFP Ambulatory Care Clinic
+417501,UNCFP Carolina Premiere Health,UNCFP Carolina Premiere Health
+418001,UNCFP Comm Based Practices,UNCFP Community Based Practices
+418002,Comm Based Pract-FOUR COUNTY,Community Based Practices-FOUR COUNTY
+418003,Comm Based Pract-DURHAM FAMILY,Community Based Practices-DURHAM FAMILY
+418004,Comm Based Pract-PITTSBORO FAM,Community Based Practice-PITTSBORO FAMILY
+418005,Comm Based Pract-CHN-MED  PEDS,Community Based Practice-CHAPEL HILL NORTH-MED and PEDS
+418006,Comm Based Pract-SANFORD Spcl,Community Based Practice-SANFORD SPECIALTY
+418007,Comm Based Pract-CHATHAM CROSS,Community Based Practice-CHATHAM CROSSING
+418008,Comm Based Pract-UNC FM HILLSB,Community Based Practice-UNC FM HILLSBORO
+418009,Comm Based Pract-UNC P A Chath,Community Based Practice-UNC PandA Chatham Surgery
+418010,Comm Based Pract-HIGHGATE PEDS,Community Based Practice-HIGHGATE PEDIATRICS
+418011,Comm Based Pract-PEDS CH H NRT,Community Based Practice-PEDS CHAPEL HILL NORTH
+418501,UNCFP Fam Med CBCs,UNCFP Family Medicine Community Based Clinics
+418502,Fam Med Comm Based Clinics-Slr,Family Medicine Community Based Clinics - Siler City Emergency
+418503,Fam Med Comm Based Clinics-Hgh,Family Medicine Community Based Clinics  - Highgate Family Med Center
+420101,Medicine Admin-Deans Office,Medicine Administration-Deans Office
+420102,MA Finance and Busin Operatns,Medicine Administration-Finance and Business Operations
+420103,Med Ad-Human Resources,Medicine Administration-Human Resources
+420104,Med Ad-Clinical Affairs,Medicine Administration-Clinical Affairs
+420105,Med Ad-Medical Alumni Affairs,Medicine Administration-Medical Alumni Affairs
+420106,Med Ad-Planning Office,Medicine Administration-Planning Office
+420107,Med Ad-Research,Medicine Administration-Research
+420108,Med Ad-Sponsored Programs,Medicine Administration-Sponsored Programs
+420110,Med Ad-Home Office,Medicine Administration - Home Office
+420111,Med Ad-Faculty Affairs,Medicine Administration - Faculty Affairs
+420112,Med Ad-Innovation  Center,Medicine Administration - Innovation Center
+420115,Med Ad-Quality Institute,Medicine Administration-Quality Institute
+420150,Medical Fdn,Medical Foundation - Outside University
+420155,Med Foundation UNC,Medical Foundation - University
+420201,Medical Education,Medical Education
+420201,Medical Education,Medical Education
+420202,Med Ed-Teaching and Learning,Medical Education-Teaching and Learning
+420203,Continuing Medical Education,Continuing Medical Education
+420204,Med Ed-Student Affairs,Medical Education-Student Affairs
+420205,Med Ed-Admissions,Medical Education-Admissions
+420206,Med Ed-Office Special Programs,Medical Education-Office of Special Programs (Medical Education Development)
+420207,Med Ed-Academy of Educators,Medical Education-Academy of Educators
+420210,Med Ed-MD Teaching,Medical Education-MD Teaching
+420211,Med Ed-Prg on Prev Edu an Prac,Medical Education-Program on Prevention in Education and Practice
+420212,Med Ed-HCAP Curriculum,Medical Education-HCAP Curriculum - Joint with Public Health and Epidemiology
+420213,Med Ed-MD/PHD program,Medical Education-MD/PHD program
+420214,Med Ed-Ofc International Activ,Medical Education-Office of International Activites
+420301,SOM-Ofc of Graduate Education,School of Medicine Office of Graduate Education
+420401,SOM-Ofc of Information Systems,School of Medicine Office of Information Systems
+420701,Univ Cancer Res Fund - Theme 1,University Cancer Research Fund - Theme 1
+420702,Univ Cancer Res Fund - Theme 2,University Cancer Research Fund - Theme 2
+420703,Univ Cancer Res Fund - Theme 3,University Cancer Research Fund - Theme 3
+420704,Univ Cancer Res Fund - Oppt,University Cancer Research Fund - Opportunity
+420705,Univ Cancer Res Fund -Cl Infra,University Cancer Research Fund - Clinical Infrastructure
+420706,Univ Cancer Res Fund - Infra,University Cancer Research Fund - Infrastructure
+422001,Cell Biology and Physiology,Cell Biology and Physiology
+422001,Cell Biology and Physiology,Cell Biology and Physiology
+422501,Microbiology and Immunology,Microbiology and Immunology
+423001,Biochemistry and Biophysics,Biochemistry and Biophysics
+423501,Genetics,Genetics
+423501,Genetics,Genetics
+423501,Genetics,Genetics
+423502,GeneticsCurriculGenomeSciences,Genetics Curriculum Genome Sciences
+424001,Pharmacology,Pharmacology
+424601,Biomedical Engineering,Biomedical Engineering
+424602,BE-Microelectronics Rsrch Prog,Biomedical Engineering Microelectronics Research Program
+424901,Social Medicine,Social Medicine
+424902,Social Med - Biomedical Ethics,Social Medicine - Biomedical Ethics
+424903,Social Med -Center Hlth Dispar,Social Medicine - Center for Health Disparities Research
+424999,Social Medicine-AHEC,Social Medicine-AHEC
+425101,Nutrition (State Funds),Nutrition
+425201,Ctr for Womens Health Resrch,Center for Womens Health Research
+425401,Ctr Maternal and Infant Health,Center for Maternal and Infant Health
+425801,Ctr for Drug Safety Science,UNC Center for Drug Safety Sciences
+426001,Biomedical Res Imaging Ctr,Biomedical Research Imaging Center (BRIC)
+426201,Genome Sciences,Carolina Center for Genome Sciences
+426401,Cys Fibrosis/Pulm Res Admin,Cystic Fibrosis/Pulmonary Research and Treatment Center - Administration
+426402,CF-Center for Airways Disease,Cystic Fibrosis-Center for Airways Disease (CAD)
+426403,CF-Knowles Group,Cystic Fibrosis-Knowles Research Group
+426601,Enviro Med Asthma and Lung Bio,Center for Environmental Medicine Asthma and Lung Biology (CEMALB)
+426801,Lineberger Compr Cancer Center,Lineberger Comprehensive Cancer Center
+426802,LCCC - CFAR,LCCC - Center for AIDS Research
+426803,LCCC - NANO,Lineberger Comprehensive Cancer Center - NANO
+426804,LCCC - CTI,LCCC - Center for Translational Immunology
+426805,LCCC - UCRF,Lineberger Comprehensive Cancer Center - University Cancer Research Fund
+426806,LCCC - Clinical Trials,LCCC - Clincial Trials
+426807,LCCC - Medical Foundation,Lineberger Comprehensive Cancer Center - Medical Foundation
+427001,UNC McAllister Heart Institute,UNC McAllister Heart Institute
+427201,Diabetes Ctr for Excellence,Diabetes Center for Excellence
+427401,TEACCH - Admin,TEACCH Autism Program - Administration
+427402,TEACCH - Research,TEACCH Autism Program - Research
+427403,TEACCH - Training,TEACCH Autism Program - Training
+427404,TEACCH - MEC,TEACCH Autism Program - MEC Support
+427410,TEACCH - Asheville,TEACCH Autism Program - Asheville
+427420,TEACCH - Chapel Hill,TEACCH Autisim Program - Chapel Hill
+427421,TEACCH - Early Intervention,TEACCH Autisim Program - Early Intervention
+427430,TEACCH - Charlotte,TEACCH Autisim Program - Charlotte
+427440,TEACCH - Fayetteville,TEACCH Autisim Program - Fayetteville
+427450,TEACCH - Greensboro,TEACCH Autisim Program - Greensboro
+427460,TEACCH - Greenville,TEACCH Autisim Program - Greenville
+427470,TEACCH - Wilmington,TEACCH Autisim Program - Wilmington
+427480,TEACCH - CLLC,TEACCH Autisim Program - CLLC
+427481,TEACCH - Supported Employment,TEACCH Autisim Program - Supported Employment
+427601,UNC Kidney Center,UNC Kidney Center
+427801,Globl Hlth and Infect Dis-Adm,Institute for Global Health and Infectious Diseases - Administration
+427805,Globl Hlth and Inf Dis-SERCEB,Institute for Global Health and Infectious Diseases - SERCEB
+428001,Gene Therapy Center - Admin,Gene Therapy Center - Administration
+428002,Gene Therapy Cntr-Vector Core,Gene Therapy Center - Vector Core
+428201,Molecular Biology,Program in Molecular Biology and Biotechnology
+428401,Center for Aging and Health,Center for Aging and Health
+428601,Neuroscience Center,Neuroscience Center
+428801,Alcohol Studies Center,Bowles Center for Alcohol Studies
+429001,Gastroint Biology and Dis Ctr,Center for Gastrointestinal Biology and Disease
+429201,Thurston Arthritis Res Center,Thurston Arthritis Research Center
+429401,Carolina Institute for DD,Carolina Institute for Developmental Disabilities
+429401,Carolina Institute for DD,Carolina Institute for Developmental Disabilities
+429402,CIDD Adult Readiness Clinic,CIDD Adult Readiness Clinic
+429601,Toxicology Curriculum,Toxicology Curriculum
+429801,TraCS Institute,The North Carolina Translational and Clinical Sciences (TraCS) Institute
+429801,TraCS Institute,The North Carolina Translational and Clinical Sciences (TraCS) Institute
+430000,SOD-Office of Dean,School of Dentistry - Office of Dean
+430100,Office of Dean,School of Dentistry - Office of Dean
+430500,Dental Ecology,Dental Ecology
+431100,Continuing Education,Continuing Education
+431500,Clinical Affairs,Clinical Affairs
+431600,Graduate Student Clinic,Graduate Student Clinic
+432000,Endodontics,Endodontics
+433000,Operative Dentistry,Operative Dentistry
+433500,Diagnostic Sciences,Diagnostic Sciences
+434000,Oral Surgery,Oral Surgery
+434500,Orthodontics,Orthodontics
+435000,Pediatric Dentistry,Pediatric Dentistry
+435500,Periodontology,Periodontology
+436500,Prosthodontics,Prosthodontics
+437500,Dental Research,Dental Research
+438000,Dental Faculty Practice,Dental Faculty Practice
+438000,Dental Faculty Practice,Dental Faculty Practice
+438000,Dental Faculty Practice,Dental Faculty Practice
+439000,Dental Foundation,Dental Foundation of North Carolina
+439000,Dental Foundation,Dental Foundation of North Carolina
+440000,School of Nursing,School of Nursing
+440100,Sch of Nursing,School of Nursing
+440110,School of Nursing-DO,School of Nursing Deans Office
+440112,School of Nursing-OMA,School of Nursing Multicultural Affairs
+440115,School of Nursing-Adv,School of Nursing Office of Advancement
+440119,School of Nursing-Ral,SON Raleigh Campus
+440120,School of Nursing-OAA,School of Nursing Academic Affairs
+440125,School of Nursing-EISLE,School of Nursing Education-Innovation-Simulation Learning Environment (EISLE)
+440126,School of Nursing-AHEC,School of Nursing AHEC Liaison Office
+440127,School of Nursing-OASS,School of Nursing Admissions and Student Services
+440130,School of Nursing-RSC,School of Nursing Research Support & Consulting
+440131,School of Nursing-BBL,School of Nursing Biobehavioral Lab
+440140,School of Nursing-OAS,School of Nursing Administrative Services
+440141,School of Nursing-Fac,School of Nursing Facilities Services
+440142,School of Nursing-CLL,Nursing-Center for Lifelong Learning
+440145,School of Nursing-FP,School of Nursing Faculty Practice
+440147,School of Nursing-IIT,School of Nursing Information and Instructional Technologies
+440160,School of Nursing-HCE,School of Nursing-Health Care Environments
+440170,School of Nursing-FH,School of Nursing-Family Health
+440180,School of Nursing-AGH,School of Nursing-Adult and Geriatric Health
+440199,AHEC Support-Nursing,School of Nursing AHEC
+449900,Nursing Foundation,School of Nursing Foundation
+450000,School of Pharmacy,UNC Eshelman School of Pharmacy
+450100,SOP-Sch of Pharmacy,UNC Eshelman School of Pharmacy-Office of the Dean
+450101,SOP-Continuing Education,UNC Eshelman School of Pharmacy-Continuing Education
+450102,SOP-The Academy,UNC Eshelman School of Pharmacy-The Academy
+450150,SOP-Advancement,UNC Eshelman School of Pharmacy-Office of Advancement
+450151,SOP-Assessment,UNC Eshelman School of Pharmacy-Office of Strategic Planning and Assessment
+450152,SOP-EDGE,UNC Eshelman School of Pharmacy-Entrepreneurial Development and Global Engagement
+450153,SOP-Diversity,UNC Eshelman School of Pharmacy-Office of Innovative Leadership and Diversity
+450154,SOP-Research,UNC Eshelman School of Pharmacy-Office of Research
+450180,SOP-Communications,UNC Eshelman School of Pharmacy-Office of Communications
+450181,SOP-Facilities,UNC Eshelman School of Pharmacy-Office of Facilities
+450182,SOP-Finance,UNC Eshelman School of Pharmacy-Office of Business Operations and Research Administration
+450183,SOP-Human Resources,UNC Eshelman School of Pharmacy-Office of Human Resources
+450184,SOP-Information Technology,UNC Eshelman School of Pharmacy-Office of Information Technology
+450185,SOP-Operations,UNC Eshelman School of Pharmacy-Office of Operations
+450186,SOP-Educational Technology,UNC Eshelman School of Pharmacy-Office of Educational Technology
+450200,SOP-Professional Education,UNC Eshelman School of Pharmacy-Office of Professional Education
+450201,SOP-Office of Student Affairs,UNC Eshelman School of Pharmacy-Office of Student Affairs
+450202,SOP-OSA-Grad Educ,UNC Eshelman School of Pharmacy-Office of Graduate Education
+450203,SOP-OSA-Ex. Ed.,UNC Eshelman School of Pharmacy-Experiental Education
+452100,SOP-CBMC,UNC Eshelman School of Pharmacy-Division of Chemical Biology and Medicinal Chemistry
+452101,SOP-CICBDD,UNC Eshelman School of Pharmacy-Center for Integrative Chemical Biology and Drug Discovery
+452200,SOP-DPET,UNC Eshelman School of Pharmacy-Division of Pharmacotherapy and Experimental Therapeutics
+452201,SOP-CPIT,UNC Eshelman School of Pharmacy-Center for Pharmacogenomics and Individualized Therapy
+452300,SOP-DPOP,UNC Eshelman School of Pharmacy-Division of Pharmaceutical Outcomes and Policy
+452400,SOP-Molecular Pharmaceutics,UNC Eshelman School of Pharmacy-Division of Molecular Pharmaceutics
+452401,SOP-CNDD,UNC Eshelman School of Pharmacy-Center for Nanotechnology and Drug Delivery
+452500,SOP-Practice Advancement,UNC Eshelman School of Pharmacy-Division of  Practice Advancement and Clinical Education
+452501,DPPEE-Pharmaceutical Care Lab,UNC Eshelman School of Pharmacy-Pharmaceutical Care Lab
+455100,Pharmacy-Asheville,UNC Eshelman School of Pharmacy-Asheville Satellite Campus
+455200,Pharmacy-Elizabeth City,UNC Eshelman School of Pharmacy-Elizabeth City State University Partnership Program
+459900,Pharmacy Foundation,Pharmacy Foundation of NC Inc.
+460000,School of Public Health,UNC Gillings School of Global Public Health
+460101,SPH-Deans Ofc,School of Public Health - Deans Office
+460105,SPH-Finance,School of Public Health - Finance
+460110,SPH-Human Resources,School of Public Health - Human Resources
+460115,SPH-IR,School of Public Health - Institutional Research
+460116,SPH-OSA-Div,School of Public Health - OSA Diversity Programs
+460117,SPH-RIS-Programs,School of Public Health - Research and Innovative Solutions - Programs
+460120,SPH-Facilities,School of Public Health - Facilities
+460121,SPH Information Technology,School of Public Health - Instructional and Informational Systems
+460122,SPH-Other,School of Public Health - Other Central Resources
+460125,SPH-External Affairs,School of Public Health - External Affairs
+460130,SPH-Communications,School of Public Health - Communications
+460135,SPH-Global Health Operations,School of Public Health - Global Health Operations
+460136,SPH-Global Health Programs,School of Public Health - Global Health Programs
+460140,SPH-Student Affairs,School of Public Health - Office of Student Affairs
+460145,SPH-RIS-Operations,School of Public Health - Research and Innovative Solutions - Operations
+460155,SPH-Acad Affairs,School of Public Health - Academic Affairs
+460160,CEPH Accreditation,CEPH Accreditation
+460165,Faculty Mentoring,Faculty Mentoring
+460170,SPH-Diversity,School of Public Health - Diversity
+460175,SPH-Commitments,School of Public Health - Commitments
+460180,SPH-Student Aid,School of Public Health - Central Student Aid
+460500,Environ Health and Suscep,Center for Environmental Health and Susceptibility
+460501,Environ Health Suscep-Admin,Center for Environmental Health and Susceptibility Administration
+460502,Environ Health and Suscep 02,Center for Environmental Health and Susceptibility - 02
+460900,Public Health Shared Services,Public Health Shared Services
+460901,Public Health Shared Srvcs-HR,Public Health Shared Services Human Resources
+461000,Health Policy and Management,Health Policy and Management
+461001,Health Policy Management-Admin,Health Policy and Management Administration
+462000,Biostatistics,Biostatistics
+462001,Biostatistics-Admin,Biostatistics Administration
+462002,Collab Studies Coord Ctr,Collaborative Studies Coordinating Center
+462003,Survey Research Lab,Carolina Survey Research Laboratory
+463000,Environ Sciences Engineering,Environmental Sciences and Engineering
+463001,Environ Sci Engineering-Admn,Environmental Sciences and Engineering Administration
+463500,Epidemiology,Epidemiology
+463501,Epidemiology-Admin,Epidemiology Administration
+464000,Health Behavior,Health Behavior
+464001,Health Behavior-Admin,Health Behavior Administration
+464500,Maternal and Child Health,Maternal and Child Health
+464501,Maternal an Child Health-Admin,Maternal and Child Health Administration
+466000,Nutrition,Nutrition
+466001,Nutrition-Admin,Nutrition Administration
+468500,NCIPH and PHLP,NC Institute for Public Health and Public Health Leadership Program
+468501,NCIPH and PHLP-Admin,NC Institute for Public Health and Public Health Leadership Program Administration
+468520,NC Institute for Public Health,North Carolina Institute for Public Health
+468521,Active Living By Design,Active Living By Design
+468522,"Res, Evaluatn and Tech Assist","Research, Evaluation and Technical Assistance"
+468523,Training,Training
+468524,Public Health Continued Educ,Continuing Education
+468525,AHEC-Public Health,AHEC- School of Public Health
+468580,PH Leadership Program,Public Health Leadership
+468581,HCAP,School of Public Health Health Careers Club (HCAP)
+468582,Public Health Nursing,Public Health Nursing
+468599,AHEC Support-Public Health,AHEC- School of Public Health
+500000,OEVC&P MOU,Office of the Executive Vice Chancellor and Provost MOU
+501001,OEVC&P - Provost Admin,Office of the Executive Vice Chancellor and Provost - Provost Administration
+501001,OEVC&P - Provost Admin,Office of the Executive Vice Chancellor and Provost - Provost Administration
+501002,OEVC&P - Provost,Office of the Executive Vice Chancellor and Provost - Provost
+505000,Inst Research and Assessment,Institutional Research and Assessment
+506000,Exec Dir for the Arts,Office of the Executive Director for the Arts
+506500,UNC Global,UNC Global
+506501,UNC Global - Ctr GI Init,UNC Global - Center for Global Initiatives
+506502,UNC Global - Gl Rsrch Inst,UNC Global - Global Research Institute
+506503,UNC Global - IS   SS,UNC Global - International Student and Scholar Services
+506508,UNC Global - Car Kib,UNC Global - Carolina for Kibera
+520000,Academic Initiatives,Academic Initiatives
+520100,Acad Initiatives-UBC,Academic Initiatives - UBC
+520500,Ackland Art Museum,Ackland Art Museum
+520700,American Indian Center,American Indian Center
+521000,Acad Sup Prog Student-Athletes,Academic Support Program for Student-Athletes
+521100,Carolina Center for Public Svc,Carolina Center for Public Svc
+521102,CCPS - APPLES,Carolina Center for Public Svc - APPLES
+521300,Center for Faculty Excellence,Center for Faculty Excellence
+521400,Carolina Seminars,Carolina Seminars
+521500,Carolina Womens Center,Carolina Womens Center
+522500,Hunt Institute,James B. Hunt Jr. Institute for Educational Leadership and Policy
+523000,Inst African American Research,Institute of African American Research
+524000,Marine Sciences Program,Marine Sciences Program
+524500,Morehead Planetarium,Morehead Planetarium
+524500,Morehead Planetarium,Morehead Planetarium
+525000,NC Botanical Garden,NC Botanical Garden
+525002,Botanical Garden Fdn,Botanical Garden Foundation
+525200,Carolina Higher Ed Opp Pgms,Carolina Higher Education Opportunity Programs
+525202,CHEOP Trio Programs Offices,CHEOP Trio Programs Offices
+527500,Wm Ida Friday Ctr-Cont Educ,WmandIda Friday Ctr-Cont Educ
+527502,Wm Ida Friday Ctr-for credit,WmandIda Friday Ctr-for credit courses
+527503,Wm Ida Friday Ctr-non-credit,WmandIda Friday Ctr-for non-credit courses
+528000,Sonja H Stone Center,Sonja H Stone Center
+529000,World View,World View
+540000,Enrollment Management,Enrollment Management
+541000,Admissions,Office of Undergraduate Admissions
+542000,University Registrar,University Registrar
+543000,Scholarships and Student Aid,Scholarships and Student Aid
+543500,Federal Work Study,Federal Work Study
+550000,University Libraries,University Libraries
+550501,Univ Lib-Administration,Univ Lib-Administration
+550503,Univ Lib-Art Library,Univ Lib-Art Library
+550505,Univ Lib-Circulation,Univ Lib-Circulation
+550507,Univ Lib-Communications,Univ Lib-Communications Dept
+550509,Univ Lib-Conservation,Univ Lib-Conservation Dept
+550510,Univ Lib-Digital Research Ser,Univ Lib-Digital Research Services
+550511,Univ Lib-ESM,Univ Lib-E-Resources and Serials Management
+550513,Univ Lib-Facilities,Univ Lib-Facilities
+550515,Univ Lib-Fiscal Services,Univ Lib-Fiscal Services
+550517,Univ Lib-Global Resources,Univ Lib-Global Resources and Area Studies
+550519,Univ Lib-Human Resources,Univ Lib-Human Resources
+550521,Univ Lib-Interlibrary Serv,Univ Lib-Interlibrary Services
+550523,Univ Lib-Development,Univ Lib-Development Dept
+550525,Univ Lib-LIT,Univ Lib-Library Information Technology
+550527,Univ Lib-Mon Serv,Univ Lib-Monographic Services
+550529,Univ Lib-Music,Univ Lib-Music Library
+550531,Univ Lib-NCC,Univ Lib-North Carolina Collection
+550533,Univ Lib-Other,Univ Lib-Other
+550535,Univ Lib-Preservation,Univ Lib-Preservation Dept
+550537,Univ Lib-RBC,Univ Lib-Rare Book Collection
+550539,Univ Lib-Res   Instr Serv,Univ Lib-Research and Instructional Services
+550541,Univ Lib-RDM,Univ Lib-Resource Description and Management
+550542,Univ Lib-Scholary Comm,Univ Lib-Scholarly Communication
+550543,Univ Lib-SILS,Univ Lib-School of Information and Library Science Library
+550545,Univ Lib-Science Lib,Univ Lib-Science Libraries
+550547,Univ Lib-SFC,Univ Lib-Southern Folklife Collection
+550549,Univ Lib-SHC,Univ Lib-Southern Historical Collection
+550551,Univ Lib-Spec Collections,Univ Lib-Special Collections
+550553,Univ Lib-Spec Coll Res and I S,Univ Lib-Special Collections Research and Instructional Services
+550555,Univ Lib-Spec Coll Tech Svcs,Univ Lib-Special Collections Technical Services
+550557,Univ Lib-Stone Center Lib,Univ Lib-Stone Center Library
+550559,Univ Lib-Undergrad,Univ Lib-Undergraduate Library
+550561,Univ Lib-Univ Archives,Univ Lib-University Archives and Records Management
+550563,Univ lib-User Experience,Univ Lib-User Experience
+550565,Univ Lib-Various,Univ Lib-Various
+550700,Tri Res Library Network,Triangle Research Libraries Network
+552000,Law Library,Law Library
+552500,HSL-Library Administration,HSL-Library Administration
+552505,HSL-Development,HSL-Development
+552510,HSL-Communications,HSL-Communications
+552515,HSL-Resources Management,HSL-Resources Management
+552535,HSL-User Services,HSL-User Services
+552555,HSL-IT Services,HSL-IT Services
+552560,HSL-Applications Dev,HSL-Applications Development
+552599,AHEC-Hlth Sciences Library,AHEC-Hlth Sciences Library
+600000,Information Technology Svcs,Information Technology Services
+600100,ITS - Info Tech Svcs,ITS - Information Technology Services
+601000,ITS - VC - CIO,ITS - Vice Chancellor - CIO
+602000,ITS - Information Security,ITS - Information Security
+603000,ITS - EA-Connect Carolina,ITS - Enterprise Applications-Connect Carolina
+603500,ITS - Enter Rpt and Dept Sys,ITS - Enterprise Reporting and Departmental Systems
+604000,ITS - Finance and Admin,ITS - Finance and Administration
+605000,ITS - IT Infrastructure,ITS - IT Infrastructure
+606000,ITS - Teaching and Learning,ITS - Teaching and Learning
+607000,ITS - User Supp and Engagement,ITS - User Support and Engagement
+607500,ITS - CCI - Car Comp Initiativ,ITS - CCI - Carolina Computing Initiative
+607700,ITS - CRC - Comp Repair Center,ITS - CRC - Computer Repair Center
+607800,ITS - Software Acquisition,ITS - Software Acquisition
+608000,ITS - Comm Technologies,ITS - Communication Technologies
+609000,ITS - Student Tech Support,ITS - Student Technology Support
+609500,ITS - Projects,ITS - Projects
+615000,Research Computing,Research Computing
+617000,Connect Carolina,Connect Carolina
+620000,VC for Research,Office of the Vice Chancellor for Research
+620100,VC for Res,Office of the Vice Chancellor for Research
+621100,Office of Sponsored Research,Office of Sponsored Research
+621200,Clinical Trials,Office of Clinical Trials
+621300,Ofc of Human Research Ethics,Office of Human Research Ethics
+621400,Office of Animal Care and Use,Office of Animal Care and Use
+621500,Lab Animal Medicine,Division of Laboratory Animal Medicine
+621600,Research Information Systems,Office of Research Information Systems
+621700,Postdoc Affairs,Office of Postdoctoral Affairs
+624100,Office of Technology Develop,Office of Technology Development
+624200,Office of Research Development,Office of Research Development
+624300,Federal Affairs,Office of Federal Affairs
+624400,Ofc of Research Communications,Office of Research Communications
+631100,Carolina Population Center,Carolina Population Center
+631200,FPG Child Development Inst,Frank Porter Graham Child Development Institute
+631300,H W Odum Inst Res Social Sci,Howard W. Odum Institute for Research in Social Science
+631400,Ctr for Developmental Science,Center for Developmental Science
+633100,Sheps Ctr for Hlth Serv Res,Cecil G. Sheps Center for Health Services Research
+633200,Ctr Health Prom and Dis Prev,Center for Health Promotion and Disease Prevention
+633300,Nutrition Research Institute,Nutrition Research Institute
+633400,Institute On Aging,Institute on Aging
+633500,Injury Prevention Research Ctr,Injury Prevention Research Center
+633600,Highway Safety Research,Highway Safety Research Center
+635100,Institute of Marine Sciences,Institute for Marine Sciences
+635200,UNC Inst for the Environment,UNC Institute for the Environment
+635300,Center for Galapagos Studies,Center for Galapagos Studies
+637100,Renaissance Computing Inst,Renaissance Computing Institute
+637200,Hazards Center,Center for the Study of Natural Hazards and Disasters
+637300,DICE Center,Data Intensive Cyber Environments (DICE)
+639900,Kenan Ctr Util Carbon Dioxide,Kenan Ctr Util Carbon Dioxide
+640000,Student Affairs,Student Affairs
+640001,Student Affairs Administration,Student Affairs Administration
+640100,SA Ofc of the Vice Chancellor,SA Office of the Vice Chancellor
+640101,SA Vice Chancellor Admin,SA Office of the Vice Chancellor Administration
+640102,Stu Aff OVC Business HUB,Stu Aff OVC Business HUB
+640200,Student Affairs Development,Student Affairs Development
+640201,Stu Aff Dev Administration,Stu Aff Dev Administration
+640500,Dean of Students,Dean of Students
+640501,Stu Aff Dean Administration,Stu Aff Dean Administration
+640600,Office of Student Conduct,Office of Student Conduct
+640601,Stu Aff Conduct Administration,Stu Aff Conduct Administration
+640700,Stu Wellness and Prev Initiat,Student Wellness   Prevention Initiatives
+640701,Stu Aff  Wellness Prev Admin,Stu Aff  Student Wellness and Prevention  Administration
+641000,Fraternty and Sororty Comm Inv,Fraternity and Sorority Life and Community Involvement
+641001,Stu Aff Frat and Sor Admin,Stu Aff Fraternity and Sorority Administration
+641300,Community Involvement,Community Involvement
+641301,Stu Aff Comm Inv Admin,Stu Aff Comm Inv Administration
+641500,Accessibility Services,Accessibility Services
+641501,Stu Aff Accessibility Admin,Stu Aff Accessibility Administration
+641600,Stu Aff LGBTQ LGBTQ Center,Stu Aff LGBTQ LQBTQ Center
+641601,Stu Aff LGBTQ Administration,Stu Aff LGBTQ Administration
+641900,Student Affairs Info Tech,Student Affairs Information Technology
+641901,Administration,Administration
+643000,University Career Services,University Career Services
+643001,Career Svc Administration,Career Svc Administration
+645000,Carolina Union,Carolina Union
+645001,Car Union Administration,Car Union Administration
+645100,Carolina Union-Events Mgmt,Carolina Union-Events Management
+645101,Car Union Evt Mgt Admin,Car Union Evt Mgt Administration
+645200,Carolina Union-Mktg and Design,Carolina Union-Marketing and Design
+645201,Car Union Mrtg and Des Admin,Car Union Mrtg and Des Administration
+645300,Student Activities Fund Office,Student Activities Fund Office (SAFO)
+645301,SAFO Administration,SAFO Administration
+645400,Campus Y,Campus Y
+645401,Campus Y Administration,Campus Y Administration
+648000,New Students Car Parent Prog,New Students and Carolina Parents Programs
+648001,NSCPP Administration,NSCPP Administration
+648101,NSCPP Parent Fd Administration,NSCPP Parent Fd Administration
+648201,NSCPP Parents Cncl Admin,NSCPP Parents Cncl Administration
+650000,Campus Health Services,Campus Health Services
+650001,Campus Health Administration,Campus Health Administration
+650002,Campus Health Facilities,Campus Health Facilities
+650003,Campus Health Pharmacy,Campus Health Pharmacy
+650004,Campus Health Sports Med/PT,Campus Health Sports Medicine/PT
+650005,Campus Health Envrnmnt of Care,Campus Health Environment of Care
+650006,Campus Health Athletic Health,Campus Health Athletic Health
+650007,Campus Health Technology,Campus Health Technology
+650008,Campus Health Wellness,Campus Health Wellness
+650009,Campus Health Payer Management,Campus Health Payer Management
+650010,Counseling Psych Svcs (CAPS),Counseling and Psychological Services (CAPS)
+650011,Campus Health Emergency Oper,Campus Health Emergency Operations
+650012,Campus Health Clinic,Campus Health Clinic
+650013,Campus Health Student Health,Campus Health Student Health
+650014,Campus Health Lab,Campus Health Lab
+650015,Campus Health X-Ray,Campus Health X-Ray
+653000,Housing and Residential Educ,Housing and Residential Education
+653001,HRE Administration,HRE Administration
+653002,HRE Conference Operations,HRE Conference Operations Administration
+653003,HRE ResNet,HRE ResNet Administration
+653004,HRE Technology,HRE Technology Administration
+653100,HRE Information Services,HRE Information Services
+653101,HRE Info Svc Administration,HRE Info Svc Administration
+653102,HRE Info Svc Family Housing,HRE Info Svc Family Housing Administration
+653200,HRE Facilities,HRE Facilities
+653201,HRE Facilities Administration,HRE Facilities Administration
+653300,Residential Education,Residential Education
+653301,Res Ed Administration,Res Ed Administration
+653400,HRE Apts and SC Halls,HRE Apts and SC Halls
+653401,HRE Apts and SC Halls Admin,HRE Apts and SC Halls Admin
+653402,HRE Apt Odum Village,HRE Apt Odum Village
+653403,HRE Apt Ram Village,HRE Apt Ram Village
+653404,HRE SC Manning East,HRE SC Manning East
+653405,HRE SC Manning West,HRE SC Manning West
+653500,HRE North Campus,HRE North Campus
+653501,HRE NC Administration,HRE NC Administration
+653502,HRE NC Cobb,HRE NC Cobb
+653503,HRE NC Connor,HRE NC Connor
+653504,HRE NC Kenan,HRE NC Kenan
+653505,HRE NC Lower Quad,HRE NC Lower Quad
+653506,HRE NC Upper Quad,HRE NC Upper Quad
+653600,HRE Mid Campus,HRE Mid Campus
+653601,HRE Mid Campus Administration,HRE Mid Campus Administration
+653602,HRE Mid Carmichael,HRE Mid Campus Carmichael Hall
+653603,HRE Mid Morrison,HRE Mid Campus Morrison Hall
+653604,HRE Mid Parker,HRE Mid Campus Parker Hall
+653700,HRE First Year Experience,HRE First Year Experience
+653701,HRE First Year Exper Admin,HRE First Year Experience Administration
+653702,HRE FYE Craige,HRE First Year Experience Craige
+653703,HRE FYE Ehringhaus,HRE First Year Experience Ehringhaus
+653704,HRE FYE Hinton James,HRE First Year Experience Hinton James
+653800,HRE Granville Towers,HRE Granville Towers
+653801,HRE Granville Administration,HRE Granville Administration
+999994,GAOSR State,GAOSR State OSR has an F A requirement to associate a specific grant project to an F A department. This department will not be used for any reason other than defining the ChartFiled values for the F A line (transactions will never use this department ID v
+999995,GAOSR Federal,GAOSR Federal OSR has an F A requirement to associate a specific grant project to an F A department. This department will not be used for any reason other than defining the ChartFiled values for the F A line (transactions will never use this department ID
+999996,GAOSR Other,GAOSR Other OSR has an F A requirement to associate a specific grant project to an F A department. This department will not be used for any reason other than defining the ChartFiled values for the F A line (transactions will never use this department ID v
+999997,CHOSR Federal,CHOSR Federal OSR has an F A requirement to associate a specific grant project to an F A department. This department will not be used for any reason other than defining the ChartFiled values for the F A line (transactions will never use this department ID
+999998,CHOSR State,CHOSR State OSR has an F A requirement to associate a specific grant project to an F A department. This department will not be used for any reason other than defining the ChartFiled values for the F A line (transactions will never use this department ID v
+999999,CHOSR Other,CHOSR Other OSR has an F A requirement to associate a specific grant project to an F A department. This department will not be used for any reason other than defining the ChartFiled values for the F A line (transactions will never use this department ID v
