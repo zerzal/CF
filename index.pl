@@ -1,10 +1,9 @@
 #!/afs/isis/pkg/perl/bin/perl
-#./FtoP.pl
 # Script by Dwayne Ayers
 use warnings;
 #use strict;
 $cgiurl = "http://wohelp-dcayers.cloudapps.unc.edu";
-$ver = "1.3";
+$ver = "1.4";
 
 # Get the input
 ########################
@@ -31,11 +30,6 @@ foreach $pair (@pairs) {
 #chomp $value;
 $find = $value;
 
-if ($FORM{'frs'}) {
-open FILE, "<FtoP.txt";
-@lines = <FILE>;
-&result;
-}
 if ($FORM{'des'}) {
 open FILE, "<PS.txt";
 @lines = <FILE>;
@@ -55,18 +49,6 @@ sub entry {
 print "Content-type: text/html\n\n";
 print "<html><head><title>WORK ORDER CREATION AID</title></head><body>\n";
 print "<FONT SIZE = 5><b>WORK ORDER CREATION AID</b></FONT><FONT SIZE = 2 color = red>\&nbsp\;\&nbsp\;<b>$ver</b></font><br><br><br>\n";
-print "<FONT SIZE = 5><b>Lookup Organization Number By Old FRS Number</b></FONT><br><br>\n";
-print "<form method=POST action=$cgiurl>\n";
-print "FRS to Convert\:\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;<input type=text name=frs size=15>\n";
-print " \&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;Only takes the 6 digit number after the \"-\" of the Customer number.<br>\n";
-print "\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;
-\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;
-\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;
-\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;
-\&nbsp\&nbsp\&nbsp\&nbsp\&nbsp\&nbsp\&nbsp\;(example: Housing Support is 8215-316713 use <b>316713</b>)<br><br></i>\n";
-print "<input type=submit> * <input type=reset></form><br>\n";
-print "<br>\n";
-
 print "<form method=POST action=$cgiurl>\n";
 print "<FONT SIZE = 5><b>Lookup Organization Number By Department Description</b></FONT><br><br>\n";
 print "<i>Type Dept Discription\:\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;<input type=text name=des size=25>\n";
@@ -91,21 +73,7 @@ print "<br><br><br>\n";
 
 exit;
 }
- sub result {
-print "Content-type: text/html\n\n";
-print "<html><head><title>FRS TO ORG RESULT</title></head><body>\n";
-print "<FONT SIZE = 6><b>RESULT</b></FONT><FONT SIZE = 4> <i>(New Dept Id in Bold)</i></FONT><BR><BR>\n";
-for (@lines) {
-    if ($_ =~ /$find/) {
-	   ($frs, $org) = split (/,/,$_);
-	  # print "$_</FONT><br><br>\n";
-       print "Old: $frs\n";
-	print "\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;Number to use: <b>$org</b><br><br>\n";
-	
-    }
-}
-}
- sub lookup {
+sub lookup {
 print "Content-type: text/html\n\n";
 print "<html><head><title>DESCRIPTION RESULT</title></head><body>\n";
 print "<FONT SIZE = 6><b>RESULT</b></FONT><FONT SIZE = 4> <i>(New Dept Id in Bold)</i></FONT><BR><BR>\n";
