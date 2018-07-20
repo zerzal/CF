@@ -47,8 +47,8 @@ open FILE, "<CFS.txt";
 }
 sub entry {
 print "Content-type: text/html\n\n";
-print "<html><head><title>WORK ORDER CREATION AID</title></head><body>\n";
-print "<FONT SIZE = 5><b>WORK ORDER CREATION AID</b></FONT><FONT SIZE = 2 color = red>\&nbsp\;\&nbsp\;<b>$ver</b></font><br><br><br>\n";
+print "<html><head><title>LS WORK ORDER CREATION AID</title></head><body>\n";
+print "<FONT SIZE = 5><b>LS WORK ORDER CREATION AID</b></FONT><FONT SIZE = 2 color = red>\&nbsp\;\&nbsp\;<b>$ver</b></font><br><br><br>\n";
 print "<form method=POST action=$cgiurl>\n";
 print "<FONT SIZE = 5><b>Lookup Organization Number By Department Description</b></FONT><br><br>\n";
 print "<i>Type Dept Discription\:\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;<input type=text name=des size=25>\n";
