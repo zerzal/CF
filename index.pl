@@ -89,10 +89,7 @@ for (@lines) {
     }
  }
 }
- print "In AIM use the \"Number to use\" and enter it in the <b>Organization</b> field in the Organization section.<br>\n";
- print "You will need to enter the <b>Asset Tag</b> number in the Equipment/Asset section<br>\n";
- print "and under Funding Method in the Phase Classification section choose <b>Asset</b>.<br>\n";
- print "You can now use <b>CP</b> Type in the Work Order Classification section.<br><br>\n"; 
+ 
  print "Return to the <a href=\"$cgiurl\">Entry Screen</a>.";
  print "</FONT>\n";
  print "</body></html>\n";
