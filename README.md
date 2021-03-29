@@ -10,9 +10,11 @@ Use FS802A PM ASSETS under REPORTS & ADD-ON APPLICATIONS AIM query page to creat
 
 4. Click Yes to open file
 
-5. Sort by the Frequency column and delete all rows except the Annually under Frequency even the header row.
+5. Sort by the Frequency column and delete all rows except the Annually under Frequency but not the header row yet.
 
 6. Now delete the last 6 columns and columns PROPERTY STATUS, TEMPLATE PHASE SHOP
+
+6a. Now you can delete the header row
 
 7. Save file as PP.csv (csv file)
 
