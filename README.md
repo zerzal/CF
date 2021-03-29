@@ -14,16 +14,20 @@ Use FS802A PM ASSETS under REPORTS & ADD-ON APPLICATIONS AIM query page to creat
 
 6. Now delete the last 6 columns and columns PROPERTY STATUS, TEMPLATE PHASE SHOP
 
-6a. Now you can delete the header row
+7. Now you can delete the header row
 
-7. Save file as PP.csv (csv file)
+8. Save file as PP.txt (text file with tab delimiters)
 
-8. Open the file in a text editor (Notpad).
+9. Open the file in a text editor (Notpad)
 
-9. Replace 245302,ALARM SYSTEM, with 245302,ALARM SYSTEM,0
+10. Delete all " marks
 
-10. Replace "ALARM, with ALARM
+11	Delete all commas and save file
 
-11. Delete all " marks.
+12  Open file back up in Excel and save as comma delimited (PP.csv)
 
-12. Save as PP.txt in this folder.
+13  Open PP.csv up in Notpad
+
+14. Replace 245302,ALARM SYSTEM, with 245302,ALARM SYSTEM,0
+
+15. Save as PP.txt in this folder.
